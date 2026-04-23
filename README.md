@@ -5,7 +5,7 @@ The column `ParameterClasses` holds the hierarchical parameter classes as map of
 Hierarchies in classes are denoted as `ParentClass::ChildClass`.
 Note that the parent class `Open Set` is implicit for all classes except `Closed Set`, furthermore the class `Other` as a child of `Open Set` is implicitly stored as the absence of an entry in the map for a variable token (`<*>`).
 
-This leaves us with the following __18__ parameter classes:
+This leaves us with the following __18__ explicitly stored parameter classes:
 ```
 Action
 Location
