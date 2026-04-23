@@ -1,0 +1,2001 @@
+LineId,Content,EventId
+0,Notification time out: 3200,946
+1,Received connection request /10.10.34.11:45307,849
+2,Send worker leaving thread,901
+3,Interrupted while waiting for message on queue,500
+4,Send worker leaving thread,901
+5,"Connection broken for id 188978561024, my id = 1, error =",437
+6,Received connection request /10.10.34.13:57707,849
+7,"Connection broken for id 188978561024, my id = 1, error =",437
+8,Interrupted while waiting for message on queue,500
+9,Send worker leaving thread,901
+10,Send worker leaving thread,901
+11,"Connection broken for id 188978561024, my id = 1, error =",437
+12,Received connection request /10.10.34.11:45382,849
+13,"Connection broken for id 188978561024, my id = 1, error =",437
+14,Interrupted while waiting for message on queue,500
+15,Interrupting SendWorker,1003
+16,Send worker leaving thread,901
+17,Interrupting SendWorker,1003
+18,Interrupted while waiting for message on queue,500
+19,Received connection request /10.10.34.11:45440,849
+20,Interrupting SendWorker,1003
+21,Send worker leaving thread,901
+22,Interrupted while waiting for message on queue,500
+23,Interrupting SendWorker,1003
+24,Send worker leaving thread,901
+25,Interrupted while waiting for message on queue,500
+26,Received connection request /10.10.34.13:57895,849
+27,Interrupted while waiting for message on queue,500
+28,Interrupted while waiting for message on queue,500
+29,Interrupting SendWorker,1003
+30,Interrupted while waiting for message on queue,500
+31,"Connection broken for id 188978561024, my id = 1, error =",437
+32,Interrupted while waiting for message on queue,500
+33,Send worker leaving thread,901
+34,"Connection broken for id 188978561024, my id = 1, error =",437
+35,Received connection request /10.10.34.12:47727,849
+36,Interrupted while waiting for message on queue,500
+37,Interrupted while waiting for message on queue,500
+38,Interrupted while waiting for message on queue,500
+39,"Connection broken for id 188978561024, my id = 1, error =",437
+40,Interrupted while waiting for message on queue,500
+41,Interrupted while waiting for message on queue,500
+42,Received connection request /10.10.34.13:58035,849
+43,Interrupting SendWorker,1003
+44,Interrupted while waiting for message on queue,500
+45,Interrupting SendWorker,1003
+46,Interrupting SendWorker,1003
+47,Received connection request /10.10.34.12:47838,849
+48,Interrupted while waiting for message on queue,500
+49,Interrupted while waiting for message on queue,500
+50,Send worker leaving thread,901
+51,Interrupting SendWorker,1003
+52,Interrupting SendWorker,1003
+53,Interrupted while waiting for message on queue,500
+54,Interrupting SendWorker,1003
+55,Received connection request /10.10.34.13:58116,849
+56,Received connection request /10.10.34.11:45957,849
+57,Interrupted while waiting for message on queue,500
+58,"Connection broken for id 188978561024, my id = 1, error =",437
+59,Interrupting SendWorker,1003
+60,Interrupting SendWorker,1003
+61,"Connection broken for id 188978561024, my id = 1, error =",437
+62,Send worker leaving thread,901
+63,Received connection request /10.10.34.13:58303,849
+64,Received connection request /10.10.34.12:48096,849
+65,Send worker leaving thread,901
+66,Interrupting SendWorker,1003
+67,Interrupted while waiting for message on queue,500
+68,Interrupted while waiting for message on queue,500
+69,Interrupting SendWorker,1003
+70,Send worker leaving thread,901
+71,Interrupting SendWorker,1003
+72,Send worker leaving thread,901
+73,Received connection request /10.10.34.12:48141,849
+74,Interrupting SendWorker,1003
+75,Send worker leaving thread,901
+76,"Connection broken for id 188978561024, my id = 1, error =",437
+77,Interrupted while waiting for message on queue,500
+78,Interrupted while waiting for message on queue,500
+79,Interrupting SendWorker,1003
+80,Received connection request /10.10.34.13:58421,849
+81,Send worker leaving thread,901
+82,Interrupted while waiting for message on queue,500
+83,Send worker leaving thread,901
+84,Received connection request /10.10.34.11:46128,849
+85,Interrupted while waiting for message on queue,500
+86,Interrupted while waiting for message on queue,500
+87,Interrupting SendWorker,1003
+88,Interrupting SendWorker,1003
+89,Received connection request /10.10.34.13:58452,849
+90,Interrupting SendWorker,1003
+91,"Connection broken for id 188978561024, my id = 1, error =",437
+92,Interrupted while waiting for message on queue,500
+93,Send worker leaving thread,901
+94,Received connection request /10.10.34.11:46173,849
+95,Interrupted while waiting for message on queue,500
+96,Received connection request /10.10.34.12:48280,849
+97,Send worker leaving thread,901
+98,"Connection broken for id 188978561024, my id = 1, error =",437
+99,Interrupted while waiting for message on queue,500
+100,Interrupted while waiting for message on queue,500
+101,Interrupted while waiting for message on queue,500
+102,"Connection broken for id 188978561024, my id = 1, error =",437
+103,Interrupting SendWorker,1003
+104,"Connection broken for id 188978561024, my id = 1, error =",437
+105,"Connection broken for id 188978561024, my id = 1, error =",437
+106,Interrupting SendWorker,1003
+107,Received connection request /10.10.34.13:58565,849
+108,Interrupting SendWorker,1003
+109,Interrupting SendWorker,1003
+110,Send worker leaving thread,901
+111,Interrupting SendWorker,1003
+112,Interrupting SendWorker,1003
+113,"Connection broken for id 188978561024, my id = 1, error =",437
+114,Send worker leaving thread,901
+115,Received connection request /10.10.34.12:48413,849
+116,Interrupting SendWorker,1003
+117,Received connection request /10.10.34.11:46329,849
+118,Interrupted while waiting for message on queue,500
+119,Send worker leaving thread,901
+120,Interrupting SendWorker,1003
+121,Interrupted while waiting for message on queue,500
+122,"Connection broken for id 188978561024, my id = 1, error =",437
+123,"Connection broken for id 188978561024, my id = 1, error =",437
+124,Received connection request /10.10.34.11:46360,849
+125,Interrupted while waiting for message on queue,500
+126,Interrupting SendWorker,1003
+127,"Connection broken for id 188978561024, my id = 1, error =",437
+128,Interrupting SendWorker,1003
+129,"Connection broken for id 188978561024, my id = 1, error =",437
+130,Interrupted while waiting for message on queue,500
+131,Received connection request /10.10.34.11:46424,849
+132,Interrupting SendWorker,1003
+133,Send worker leaving thread,901
+134,"Connection broken for id 188978561024, my id = 1, error =",437
+135,Received connection request /10.10.34.11:46440,849
+136,Interrupting SendWorker,1003
+137,Interrupted while waiting for message on queue,500
+138,"Connection broken for id 188978561024, my id = 1, error =",437
+139,Interrupted while waiting for message on queue,500
+140,Interrupting SendWorker,1003
+141,Send worker leaving thread,901
+142,Interrupted while waiting for message on queue,500
+143,Received connection request /10.10.34.12:48600,849
+144,Interrupting SendWorker,1003
+145,Received connection request /10.10.34.11:46519,849
+146,Send worker leaving thread,901
+147,Send worker leaving thread,901
+148,Interrupting SendWorker,1003
+149,Send worker leaving thread,901
+150,Send worker leaving thread,901
+151,Received connection request /10.10.34.11:46552,849
+152,"Connection broken for id 188978561024, my id = 1, error =",437
+153,Interrupted while waiting for message on queue,500
+154,Interrupted while waiting for message on queue,500
+155,"Connection broken for id 188978561024, my id = 1, error =",437
+156,Interrupting SendWorker,1003
+157,"Connection broken for id 188978561024, my id = 1, error =",437
+158,"Connection broken for id 188978561024, my id = 1, error =",437
+159,Interrupted while waiting for message on queue,500
+160,Send worker leaving thread,901
+161,"Connection broken for id 188978561024, my id = 1, error =",437
+162,"Connection broken for id 188978561024, my id = 1, error =",437
+163,Send worker leaving thread,901
+164,Send worker leaving thread,901
+165,Received connection request /10.10.34.13:59016,849
+166,Interrupting SendWorker,1003
+167,Send worker leaving thread,901
+168,Interrupting SendWorker,1003
+169,Received connection request /10.10.34.12:48811,849
+170,Received connection request /10.10.34.13:59037,849
+171,Send worker leaving thread,901
+172,Interrupting SendWorker,1003
+173,Send worker leaving thread,901
+174,Send worker leaving thread,901
+175,Interrupted while waiting for message on queue,500
+176,Interrupted while waiting for message on queue,500
+177,"Connection broken for id 188978561024, my id = 1, error =",437
+178,Received connection request /10.10.34.13:59078,849
+179,"Connection broken for id 188978561024, my id = 1, error =",437
+180,Interrupting SendWorker,1003
+181,Received connection request /10.10.34.11:46798,849
+182,Interrupting SendWorker,1003
+183,"Connection broken for id 188978561024, my id = 1, error =",437
+184,"Connection broken for id 188978561024, my id = 1, error =",437
+185,Received connection request /10.10.34.11:46812,849
+186,"Connection broken for id 188978561024, my id = 1, error =",437
+187,Received connection request /10.10.34.13:59130,849
+188,Interrupting SendWorker,1003
+189,Received connection request /10.10.34.12:48922,849
+190,Send worker leaving thread,901
+191,Interrupted while waiting for message on queue,500
+192,Interrupting SendWorker,1003
+193,Interrupted while waiting for message on queue,500
+194,Interrupted while waiting for message on queue,500
+195,Send worker leaving thread,901
+196,Interrupted while waiting for message on queue,500
+197,Received connection request /10.10.34.11:47327,849
+198,Interrupted while waiting for message on queue,500
+199,Received connection request /10.10.34.11:47351,849
+200,Received connection request /10.10.34.11:47366,849
+201,"Connection broken for id 188978561024, my id = 1, error =",437
+202,Received connection request /10.10.34.11:47390,849
+203,Received connection request /10.10.34.13:59614,849
+204,Interrupting SendWorker,1003
+205,Interrupting SendWorker,1003
+206,Interrupted while waiting for message on queue,500
+207,Interrupting SendWorker,1003
+208,Interrupted while waiting for message on queue,500
+209,"Connection broken for id 188978561024, my id = 1, error =",437
+210,Interrupting SendWorker,1003
+211,"Connection broken for id 188978561024, my id = 1, error =",437
+212,Received connection request /10.10.34.11:47472,849
+213,"Connection broken for id 188978561024, my id = 1, error =",437
+214,Received connection request /10.10.34.13:59689,849
+215,Send worker leaving thread,901
+216,Received connection request /10.10.34.13:59706,849
+217,Received connection request /10.10.34.13:59722,849
+218,Interrupted while waiting for message on queue,500
+219,Interrupting SendWorker,1003
+220,Received connection request /10.10.34.11:47540,849
+221,"Connection broken for id 188978561024, my id = 1, error =",437
+222,Received connection request /10.10.34.11:47571,849
+223,Interrupted while waiting for message on queue,500
+224,Received connection request /10.10.34.11:47615,849
+225,Received connection request /10.10.34.12:49588,849
+226,Send worker leaving thread,901
+227,Received connection request /10.10.34.12:49610,849
+228,Interrupted while waiting for message on queue,500
+229,Send worker leaving thread,901
+230,Interrupting SendWorker,1003
+231,Interrupted while waiting for message on queue,500
+232,Send worker leaving thread,901
+233,Interrupting SendWorker,1003
+234,Interrupted while waiting for message on queue,500
+235,Interrupting SendWorker,1003
+236,Send worker leaving thread,901
+237,Interrupted while waiting for message on queue,500
+238,Send worker leaving thread,901
+239,Interrupting SendWorker,1003
+240,Send worker leaving thread,901
+241,Interrupting SendWorker,1003
+242,Send worker leaving thread,901
+243,Send worker leaving thread,901
+244,Interrupting SendWorker,1003
+245,Interrupted while waiting for message on queue,500
+246,"Connection broken for id 188978561024, my id = 1, error =",437
+247,Send worker leaving thread,901
+248,Received connection request /10.10.34.13:59925,849
+249,Interrupted while waiting for message on queue,500
+250,Interrupted while waiting for message on queue,500
+251,Send worker leaving thread,901
+252,Interrupted while waiting for message on queue,500
+253,"Connection broken for id 188978561024, my id = 1, error =",437
+254,Interrupting SendWorker,1003
+255,Interrupting SendWorker,1003
+256,"Connection broken for id 188978561024, my id = 1, error =",437
+257,Interrupted while waiting for message on queue,500
+258,Send worker leaving thread,901
+259,Interrupted while waiting for message on queue,500
+260,"Connection broken for id 188978561024, my id = 1, error =",437
+261,Send worker leaving thread,901
+262,Interrupted while waiting for message on queue,500
+263,Received connection request /10.10.34.11:47885,849
+264,Received connection request /10.10.34.12:49806,849
+265,Send worker leaving thread,901
+266,"Connection broken for id 188978561024, my id = 1, error =",437
+267,Interrupted while waiting for message on queue,500
+268,Interrupted while waiting for message on queue,500
+269,Received connection request /10.10.34.13:60070,849
+270,"Connection broken for id 188978561024, my id = 1, error =",437
+271,Send worker leaving thread,901
+272,Interrupting SendWorker,1003
+273,"Connection broken for id 188978561024, my id = 1, error =",437
+274,Interrupting SendWorker,1003
+275,Interrupting SendWorker,1003
+276,Interrupted while waiting for message on queue,500
+277,Interrupting SendWorker,1003
+278,Received connection request /10.10.34.12:49940,849
+279,Interrupted while waiting for message on queue,500
+280,Send worker leaving thread,901
+281,Interrupting SendWorker,1003
+282,Send worker leaving thread,901
+283,"Connection broken for id 188978561024, my id = 1, error =",437
+284,Send worker leaving thread,901
+285,"Connection broken for id 188978561024, my id = 1, error =",437
+286,"Connection broken for id 188978561024, my id = 1, error =",437
+287,Interrupting SendWorker,1003
+288,Interrupted while waiting for message on queue,500
+289,Send worker leaving thread,901
+290,Interrupting SendWorker,1003
+291,"Connection broken for id 188978561024, my id = 1, error =",437
+292,Interrupted while waiting for message on queue,500
+293,Send worker leaving thread,901
+294,Received connection request /10.10.34.12:50043,849
+295,Interrupting SendWorker,1003
+296,Interrupting SendWorker,1003
+297,Interrupted while waiting for message on queue,500
+298,Send worker leaving thread,901
+299,"Connection broken for id 188978561024, my id = 1, error =",437
+300,Interrupted while waiting for message on queue,500
+301,"Connection broken for id 188978561024, my id = 1, error =",437
+302,Received connection request /10.10.34.13:60366,849
+303,Interrupted while waiting for message on queue,500
+304,Send worker leaving thread,901
+305,Send worker leaving thread,901
+306,Interrupted while waiting for message on queue,500
+307,"Connection broken for id 188978561024, my id = 1, error =",437
+308,"Connection broken for id 188978561024, my id = 1, error =",437
+309,Send worker leaving thread,901
+310,Interrupting SendWorker,1003
+311,Received connection request /10.10.34.11:48289,849
+312,"Connection broken for id 188978561024, my id = 1, error =",437
+313,Received connection request /10.10.34.13:60423,849
+314,Interrupted while waiting for message on queue,500
+315,"Connection broken for id 188978561024, my id = 1, error =",437
+316,Interrupted while waiting for message on queue,500
+317,Interrupting SendWorker,1003
+318,Interrupting SendWorker,1003
+319,Send worker leaving thread,901
+320,Send worker leaving thread,901
+321,Send worker leaving thread,901
+322,"Connection broken for id 188978561024, my id = 1, error =",437
+323,Interrupted while waiting for message on queue,500
+324,Received connection request /10.10.34.13:60489,849
+325,Interrupted while waiting for message on queue,500
+326,Send worker leaving thread,901
+327,"Connection broken for id 188978561024, my id = 1, error =",437
+328,"Connection broken for id 188978561024, my id = 1, error =",437
+329,Interrupted while waiting for message on queue,500
+330,"Connection broken for id 188978561024, my id = 1, error =",437
+331,Received connection request /10.10.34.12:50332,849
+332,Interrupting SendWorker,1003
+333,Interrupted while waiting for message on queue,500
+334,Interrupted while waiting for message on queue,500
+335,"Connection broken for id 188978561024, my id = 1, error =",437
+336,Received connection request /10.10.34.12:50354,849
+337,"Connection broken for id 188978561024, my id = 1, error =",437
+338,Interrupted while waiting for message on queue,500
+339,Interrupting SendWorker,1003
+340,Interrupting SendWorker,1003
+341,Send worker leaving thread,901
+342,Interrupted while waiting for message on queue,500
+343,Received connection request /10.10.34.11:48503,849
+344,"Connection broken for id 188978561024, my id = 1, error =",437
+345,"Connection broken for id 188978561024, my id = 1, error =",437
+346,Received connection request /10.10.34.12:50434,849
+347,Interrupted while waiting for message on queue,500
+348,Received connection request /10.10.34.11:48563,849
+349,Interrupted while waiting for message on queue,500
+350,"Connection broken for id 188978561024, my id = 1, error =",437
+351,"Connection broken for id 188978561024, my id = 1, error =",437
+352,Send worker leaving thread,901
+353,Received connection request /10.10.34.11:48609,849
+354,Interrupted while waiting for message on queue,500
+355,Interrupting SendWorker,1003
+356,Received connection request /10.10.34.11:48612,849
+357,Send worker leaving thread,901
+358,"Connection broken for id 188978561024, my id = 1, error =",437
+359,Send worker leaving thread,901
+360,"Connection broken for id 188978561024, my id = 1, error =",437
+361,Received connection request /10.10.34.13:60717,849
+362,Send worker leaving thread,901
+363,Interrupted while waiting for message on queue,500
+364,Received connection request /10.10.34.13:60726,849
+365,Send worker leaving thread,901
+366,Received connection request /10.10.34.12:50526,849
+367,"Connection broken for id 188978561024, my id = 1, error =",437
+368,Interrupting SendWorker,1003
+369,Interrupted while waiting for message on queue,500
+370,Received connection request /10.10.34.13:60750,849
+371,"Connection broken for id 188978561024, my id = 1, error =",437
+372,Interrupting SendWorker,1003
+373,Received connection request /10.10.34.12:50546,849
+374,Send worker leaving thread,901
+375,Interrupting SendWorker,1003
+376,"Connection broken for id 188978561024, my id = 1, error =",437
+377,Interrupted while waiting for message on queue,500
+378,"Connection broken for id 188978561024, my id = 1, error =",437
+379,Interrupting SendWorker,1003
+380,Interrupting SendWorker,1003
+381,Interrupting SendWorker,1003
+382,Received connection request /10.10.34.12:50597,849
+383,"Connection broken for id 188978561024, my id = 1, error =",437
+384,Interrupted while waiting for message on queue,500
+385,Interrupted while waiting for message on queue,500
+386,Send worker leaving thread,901
+387,Interrupting SendWorker,1003
+388,Interrupting SendWorker,1003
+389,Received connection request /10.10.34.13:60834,849
+390,Interrupted while waiting for message on queue,500
+391,Received connection request /10.10.34.12:50633,849
+392,Interrupting SendWorker,1003
+393,Send worker leaving thread,901
+394,Interrupting SendWorker,1003
+395,Interrupting SendWorker,1003
+396,Interrupted while waiting for message on queue,500
+397,"Connection broken for id 188978561024, my id = 1, error =",437
+398,Received connection request /10.10.34.11:48814,849
+399,"Connection broken for id 188978561024, my id = 1, error =",437
+400,Received connection request /10.10.34.11:48817,849
+401,"Connection broken for id 188978561024, my id = 1, error =",437
+402,Send worker leaving thread,901
+403,Interrupted while waiting for message on queue,500
+404,"Connection broken for id 188978561024, my id = 1, error =",437
+405,"Connection broken for id 188978561024, my id = 1, error =",437
+406,Interrupting SendWorker,1003
+407,Send worker leaving thread,901
+408,Received connection request /10.10.34.13:60918,849
+409,Interrupted while waiting for message on queue,500
+410,Send worker leaving thread,901
+411,Send worker leaving thread,901
+412,Send worker leaving thread,901
+413,Send worker leaving thread,901
+414,Send worker leaving thread,901
+415,"Connection broken for id 188978561024, my id = 1, error =",437
+416,Received connection request /10.10.34.13:60984,849
+417,Interrupting SendWorker,1003
+418,Received connection request /10.10.34.13:60996,849
+419,"Connection broken for id 188978561024, my id = 1, error =",437
+420,Interrupting SendWorker,1003
+421,Interrupting SendWorker,1003
+422,Interrupted while waiting for message on queue,500
+423,Interrupted while waiting for message on queue,500
+424,Received connection request /10.10.34.12:50849,849
+425,Received connection request /10.10.34.11:49023,849
+426,"Connection broken for id 188978561024, my id = 1, error =",437
+427,Interrupting SendWorker,1003
+428,Interrupted while waiting for message on queue,500
+429,Send worker leaving thread,901
+430,"Connection broken for id 188978561024, my id = 1, error =",437
+431,Received connection request /10.10.34.13:32891,849
+432,Send worker leaving thread,901
+433,Interrupted while waiting for message on queue,500
+434,"Connection broken for id 188978561024, my id = 1, error =",437
+435,Received connection request /10.10.34.13:32924,849
+436,"Connection broken for id 188978561024, my id = 1, error =",437
+437,Send worker leaving thread,901
+438,Interrupted while waiting for message on queue,500
+439,Interrupting SendWorker,1003
+440,"Connection broken for id 188978561024, my id = 1, error =",437
+441,Received connection request /10.10.34.13:33010,849
+442,Received connection request /10.10.34.11:49204,849
+443,Interrupted while waiting for message on queue,500
+444,Send worker leaving thread,901
+445,Received connection request /10.10.34.12:51050,849
+446,"Connection broken for id 188978561024, my id = 1, error =",437
+447,Interrupted while waiting for message on queue,500
+448,Interrupting SendWorker,1003
+449,Send worker leaving thread,901
+450,Received connection request /10.10.34.12:51104,849
+451,Interrupted while waiting for message on queue,500
+452,Send worker leaving thread,901
+453,Interrupting SendWorker,1003
+454,Interrupting SendWorker,1003
+455,Interrupted while waiting for message on queue,500
+456,Interrupted while waiting for message on queue,500
+457,Interrupted while waiting for message on queue,500
+458,Send worker leaving thread,901
+459,"Connection broken for id 188978561024, my id = 1, error =",437
+460,Send worker leaving thread,901
+461,"Connection broken for id 188978561024, my id = 1, error =",437
+462,Interrupting SendWorker,1003
+463,Interrupting SendWorker,1003
+464,Send worker leaving thread,901
+465,Received connection request /10.10.34.13:33165,849
+466,"Connection broken for id 188978561024, my id = 1, error =",437
+467,Send worker leaving thread,901
+468,"Connection broken for id 188978561024, my id = 1, error =",437
+469,Received connection request /10.10.34.13:33198,849
+470,Interrupted while waiting for message on queue,500
+471,Interrupted while waiting for message on queue,500
+472,Send worker leaving thread,901
+473,"Connection broken for id 188978561024, my id = 1, error =",437
+474,"Connection broken for id 188978561024, my id = 1, error =",437
+475,Received connection request /10.10.34.13:33225,849
+476,Interrupted while waiting for message on queue,500
+477,Send worker leaving thread,901
+478,Interrupted while waiting for message on queue,500
+479,Received connection request /10.10.34.13:33250,849
+480,Received connection request /10.10.34.13:33255,849
+481,"Connection broken for id 188978561024, my id = 1, error =",437
+482,Received connection request /10.10.34.13:33266,849
+483,Interrupted while waiting for message on queue,500
+484,Received connection request /10.10.34.12:51296,849
+485,"Connection broken for id 188978561024, my id = 1, error =",437
+486,Received connection request /10.10.34.13:33282,849
+487,Interrupted while waiting for message on queue,500
+488,"Connection broken for id 188978561024, my id = 1, error =",437
+489,Interrupted while waiting for message on queue,500
+490,Received connection request /10.10.34.11:49518,849
+491,Interrupting SendWorker,1003
+492,Interrupting SendWorker,1003
+493,Received connection request /10.10.34.12:51380,849
+494,Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,361
+495,caught end of stream exception,801
+496,Closed socket connection for client /10.10.34.12:45542 which had sessionid 0x14ed93111f20002,361
+497,Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115,586
+498,Closed socket connection for client /10.10.34.13:37106 which had sessionid 0x14ed93111f20010,361
+499,Client attempting to establish new session at /10.10.34.19:33425,470
+500,Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,387
+501,Established session 0x14ed93111f2002b with negotiated timeout 10000 for client /10.10.34.22:47073,387
+502,Accepted socket connection from /10.10.34.13:37196,743
+503,Accepted socket connection from /10.10.34.26:56952,743
+504,Closed socket connection for client /10.10.34.11:49557 which had sessionid 0x14ed93111f20048,361
+505,Unexpected Exception:,994
+506,Established session 0x14ed93111f2005b with negotiated timeout 10000 for client /10.10.34.28:52117,387
+507,Accepted socket connection from /10.10.34.30:38562,743
+508,Accepted socket connection from /10.10.34.36:32876,743
+509,Established session 0x14ed93111f2005f with negotiated timeout 10000 for client /10.10.34.36:32876,387
+510,Accepted socket connection from /10.10.34.11:45997,743
+511,Accepted socket connection from /10.10.34.11:49346,743
+512,Established session 0x14ed93111f20079 with negotiated timeout 20000 for client /10.10.34.11:49800,387
+513,Closed socket connection for client /10.10.34.29:39382 which had sessionid 0x14ed93111f2005d,361
+514,Established session 0x14ed93111f2007c with negotiated timeout 10000 for client /10.10.34.11:50276,387
+515,Client attempting to establish new session at /10.10.34.11:50286,470
+516,Client attempting to establish new session at /10.10.34.11:50301,470
+517,Established session 0x14ed93111f20082 with negotiated timeout 10000 for client /10.10.34.11:50301,387
+518,Client attempting to establish new session at /10.10.34.11:50402,470
+519,Client attempting to establish new session at /10.10.34.20:56414,470
+520,Closed socket connection for client /10.10.34.11:50940 which had sessionid 0x14ed93111f20099,361
+521,Closed socket connection for client /10.10.34.11:52893 which had sessionid 0x14ed93111f2009b,361
+522,Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,171
+523,Accepted socket connection from /10.10.34.29:39387,743
+524,Client attempting to establish new session at /10.10.34.11:53821,470
+525,Client attempting to establish new session at /10.10.34.12:45668,470
+526,Connection request from old client /10.10.34.20:56418; will be dropped if server is in r-o mode,171
+527,Connection request from old client /10.10.34.42:34164; will be dropped if server is in r-o mode,171
+528,Client attempting to establish new session at /10.10.34.12:45675,470
+529,Connection request from old client /10.10.34.11:54411; will be dropped if server is in r-o mode,171
+530,Closed socket connection for client /10.10.34.12:45682 which had sessionid 0x14ed93111f200cd,361
+531,Connection request from old client /10.10.34.13:37454; will be dropped if server is in r-o mode,171
+532,Closed socket connection for client /10.10.34.12:45697 which had sessionid 0x14ed93111f200d6,361
+533,Client attempting to establish new session at /10.10.34.11:54632,470
+534,Established session 0x14ed93111f200df with negotiated timeout 10000 for client /10.10.34.13:37467,387
+535,caught end of stream exception,801
+536,Client attempting to establish new session at /10.10.34.11:54738,470
+537,caught end of stream exception,801
+538,Closed socket connection for client /10.10.34.11:54983 which had sessionid 0x14ed93111f200f0,361
+539,Server environment:user.dir=/,960
+540,Connection request from old client /10.10.34.12:45728; will be dropped if server is in r-o mode,171
+541,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+542,Client attempting to establish new session at /10.10.34.12:43125,470
+543,Processed session termination for sessionid: 0x14ede63a5a70002,536
+544,Processed session termination for sessionid: 0x34ede65503f0010,536
+545,caught end of stream exception,801
+546,Processed session termination for sessionid: 0x14ede63a5a70023,536
+547,Connection request from old client /10.10.34.13:38053; will be dropped if server is in r-o mode,171
+548,Processed session termination for sessionid: 0x34ede65503f002b,536
+549,"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",625
+550,Processed session termination for sessionid: 0x24ede63a01b003b,536
+551,"Expiring session 0x34ede65503f0036, timeout of 10000ms exceeded",625
+552,Processed session termination for sessionid: 0x34ede65503f0039,536
+553,caught end of stream exception,801
+554,Processed session termination for sessionid: 0x14ede63a5a7003a,536
+555,Connection request from old client /10.10.34.13:38079; will be dropped if server is in r-o mode,171
+556,caught end of stream exception,801
+557,Closed socket connection for client /10.10.34.13:38088 which had sessionid 0x14ede63a5a70048,361
+558,Connection request from old client /10.10.34.11:40489; will be dropped if server is in r-o mode,171
+559,Established session 0x14ede63a5a7004b with negotiated timeout 10000 for client /10.10.34.11:40489,387
+560,Client attempting to establish new session at /10.10.34.21:37904,470
+561,Closed socket connection for client /10.10.34.17:51214 which had sessionid 0x14ede63a5a70053,361
+562,"Expiring session 0x34ede65503f005c, timeout of 10000ms exceeded",625
+563,"Expiring session 0x24ede63a01b0062, timeout of 10000ms exceeded",625
+564,******* GOODBYE /10.10.34.12:35276 ********,642
+565,LOOKING,1187
+566,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+567,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+568,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+569,Interrupting SendWorker,1003
+570,Notification time out: 60000,946
+571,Connection request from old client /10.10.34.40:40996; will be dropped if server is in r-o mode,171
+572,Established session 0x14edfaa86f60013 with negotiated timeout 10000 for client /10.10.34.27:44600,387
+573,caught end of stream exception,801
+574,caught end of stream exception,801
+575,Connection request from old client /10.10.34.16:39498; will be dropped if server is in r-o mode,171
+576,Closed socket connection for client /10.10.34.13:54485 which had sessionid 0x14edfaa86f60021,361
+577,Accepted socket connection from /10.10.34.12:34568,743
+578,Connection request from old client /10.10.34.25:58975; will be dropped if server is in r-o mode,171
+579,Connection request from old client /10.10.34.33:39730; will be dropped if server is in r-o mode,171
+580,My election bind port: 0.0.0.0/0.0.0.0:3888,850
+581,"Have smaller server identifier, so dropping the connection: (2, 1)",229
+582,FOLLOWING,1171
+583,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+584,LOOKING,1187
+585,"New election. My id =  1, proposed zxid=0x700000000",492
+586,Server environment:host.name=mesos-master-1,960
+587,FOLLOWING - LEADER ELECTION TOOK - 49,660
+588,Established session 0x14ee3e057ed000c with negotiated timeout 10000 for client /10.10.34.37:49834,387
+589,Accepted socket connection from /10.10.34.11:40061,743
+590,Client attempting to establish new session at /10.10.34.11:40061,470
+591,Connection request from old client /10.10.34.13:39525; will be dropped if server is in r-o mode,171
+592,Connection request from old client /10.10.34.35:48971; will be dropped if server is in r-o mode,171
+593,caught end of stream exception,801
+594,Established session 0x14ee3e057ed002c with negotiated timeout 10000 for client /10.10.34.19:43049,387
+595,Client attempting to establish new session at /10.10.34.40:58713,470
+596,Closed socket connection for client /10.10.34.12:59661 which had sessionid 0x14ee3e057ed0027,361
+597,"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",58
+598,FOLLOWING - LEADER ELECTION TOOK - 238,660
+599,Established session 0x14f05578bd80002 with negotiated timeout 10000 for client /10.10.34.12:46262,387
+600,caught end of stream exception,801
+601,Client attempting to establish new session at /10.10.34.15:54175,470
+602,Connection request from old client /10.10.34.16:40418; will be dropped if server is in r-o mode,171
+603,Closed socket connection for client /10.10.34.19:57338 which had sessionid 0x14f05578bd8000d,361
+604,caught end of stream exception,801
+605,caught end of stream exception,801
+606,Established session 0x14f05578bd80020 with negotiated timeout 10000 for client /10.10.34.11:38390,387
+607,autopurge.snapRetainCount set to 3,816
+608,Server environment:java.vendor=Oracle Corporation,960
+609,Revalidating client: 0x14f05578bd80018,1004
+610,Established session 0x14f05578bd80016 with negotiated timeout 10000 for client /10.10.34.13:38490,387
+611,Established session 0x14f05578bd80013 with negotiated timeout 10000 for client /10.10.34.11:38530,387
+612,Client attempting to renew session 0x14f05578bd8001b at /10.10.34.20:56374,586
+613,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT",960
+614,Server environment:user.name=zookeeper,960
+615,Revalidating client: 0x14f05578bd80013,1004
+616,caught end of stream exception,801
+617,Closed socket connection for client /10.10.34.12:46331 which had sessionid 0x14f1724a6e80004,361
+618,Received connection request /10.10.34.12:34051,849
+619,Server environment:os.name=Linux,960
+620,Accepted socket connection from /10.10.34.11:54839,743
+621,Client attempting to establish new session at /10.10.34.12:58349,470
+622,Closed socket connection for client /10.10.34.11:56471 (no session established for client),196
+623,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,162
+624,"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",58
+625,"Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)",58
+626,Established session 0x14f4a6318b80005 with negotiated timeout 10000 for client /10.10.34.11:56492,387
+627,Client attempting to establish new session at /10.10.34.12:58913,470
+628,Accepted socket connection from /10.10.34.18:36934,743
+629,Established session 0x14f4a6318b80013 with negotiated timeout 10000 for client /10.10.34.20:43137,387
+630,Established session 0x14f4a6318b80022 with negotiated timeout 10000 for client /10.10.34.30:43272,387
+631,Closed socket connection for client /10.10.34.35:48997 which had sessionid 0x14f4a6318b80024,361
+632,caught end of stream exception,801
+633,Closed socket connection for client /10.10.34.12:58917 which had sessionid 0x14f4a6318b80018,361
+634,Connection request from old client /10.10.34.13:50545; will be dropped if server is in r-o mode,171
+635,Accepted socket connection from /10.10.34.30:43278,743
+636,Accepted socket connection from /10.10.34.14:46136,743
+637,tickTime set to 2000,1093
+638,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+639,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+640,Notification time out: 60000,946
+641,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+642,Notification time out: 60000,946
+643,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+644,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+645,Notification time out: 60000,946
+646,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+647,Notification time out: 60000,946
+648,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+649,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+650,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+651,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+652,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+653,Notification time out: 60000,946
+654,Notification time out: 60000,946
+655,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+656,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+657,Notification time out: 60000,946
+658,Notification time out: 60000,946
+659,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+660,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+661,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+662,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+663,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+664,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+665,Notification time out: 60000,946
+666,Notification time out: 60000,946
+667,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+668,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+669,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+670,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+671,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+672,Notification time out: 60000,946
+673,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+674,Notification time out: 60000,946
+675,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+676,Notification time out: 60000,946
+677,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+678,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+679,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+680,Notification time out: 60000,946
+681,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+682,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+683,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+684,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+685,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+686,Notification time out: 60000,946
+687,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+688,Notification time out: 60000,946
+689,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+690,Notification time out: 60000,946
+691,Notification time out: 60000,946
+692,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+693,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+694,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+695,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+696,Notification time out: 60000,946
+697,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+698,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+699,Notification time out: 60000,946
+700,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+701,Notification time out: 60000,946
+702,Notification time out: 60000,946
+703,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+704,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+705,Notification time out: 60000,946
+706,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+707,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+708,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+709,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+710,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+711,Notification time out: 60000,946
+712,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+713,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+714,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+715,Notification time out: 60000,946
+716,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+717,Notification time out: 60000,946
+718,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+719,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+720,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+721,Notification time out: 60000,946
+722,Notification time out: 60000,946
+723,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+724,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+725,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+726,Notification time out: 60000,946
+727,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+728,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+729,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+730,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+731,Notification time out: 60000,946
+732,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+733,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+734,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+735,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+736,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+737,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+738,Notification time out: 60000,946
+739,Notification time out: 60000,946
+740,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+741,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+742,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+743,Notification time out: 60000,946
+744,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+745,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+746,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+747,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+748,Notification time out: 60000,946
+749,Notification time out: 60000,946
+750,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+751,"Connection broken for id 3, my id = 1, error =",437
+752,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+753,Server environment:java.vendor=Oracle Corporation,960
+754,Unexpected exception causing shutdown while sock still open,369
+755,Unexpected exception causing shutdown while sock still open,369
+756,******* GOODBYE /10.10.34.11:52264 ********,642
+757,Unexpected exception causing shutdown while sock still open,369
+758,Unexpected exception causing shutdown while sock still open,369
+759,******* GOODBYE /10.10.34.11:52308 ********,642
+760,******* GOODBYE /10.10.34.12:59060 ********,642
+761,******* GOODBYE /10.10.34.12:59103 ********,642
+762,******* GOODBYE /10.10.34.13:57247 ********,642
+763,Unexpected exception causing shutdown while sock still open,369
+764,******* GOODBYE /10.10.34.13:57319 ********,642
+765,******* GOODBYE /10.10.34.11:52476 ********,642
+766,******* GOODBYE /10.10.34.12:59203 ********,642
+767,******* GOODBYE /10.10.34.12:59211 ********,642
+768,******* GOODBYE /10.10.34.11:52502 ********,642
+769,Unexpected exception causing shutdown while sock still open,369
+770,Unexpected exception causing shutdown while sock still open,369
+771,******* GOODBYE /10.10.34.13:57458 ********,642
+772,******* GOODBYE /10.10.34.13:57502 ********,642
+773,******* GOODBYE /10.10.34.11:52703 ********,642
+774,******* GOODBYE /10.10.34.12:59406 ********,642
+775,Unexpected exception causing shutdown while sock still open,369
+776,******* GOODBYE /10.10.34.13:57580 ********,642
+777,Unexpected exception causing shutdown while sock still open,369
+778,Unexpected exception causing shutdown while sock still open,369
+779,Unexpected exception causing shutdown while sock still open,369
+780,******* GOODBYE /10.10.34.11:52818 ********,642
+781,******* GOODBYE /10.10.34.11:52844 ********,642
+782,******* GOODBYE /10.10.34.13:57653 ********,642
+783,Unexpected exception causing shutdown while sock still open,369
+784,Interrupting SendWorker,1003
+785,Received connection request /10.10.34.12:54788,849
+786,"Connection broken for id 188978561024, my id = 2, error =",437
+787,Received connection request /10.10.34.13:42624,849
+788,Interrupting SendWorker,1003
+789,"Connection broken for id 188978561024, my id = 2, error =",437
+790,Received connection request /10.10.34.13:42634,849
+791,"Connection broken for id 188978561024, my id = 2, error =",437
+792,Interrupting SendWorker,1003
+793,Interrupting SendWorker,1003
+794,Interrupted while waiting for message on queue,500
+795,Send worker leaving thread,901
+796,Send worker leaving thread,901
+797,Received connection request /10.10.34.12:54830,849
+798,Interrupting SendWorker,1003
+799,Interrupted while waiting for message on queue,500
+800,Received connection request /10.10.34.12:54857,849
+801,Send worker leaving thread,901
+802,"Connection broken for id 188978561024, my id = 2, error =",437
+803,Interrupting SendWorker,1003
+804,Send worker leaving thread,901
+805,Interrupting SendWorker,1003
+806,"Connection broken for id 188978561024, my id = 2, error =",437
+807,Send worker leaving thread,901
+808,"Connection broken for id 188978561024, my id = 2, error =",437
+809,Received connection request /10.10.34.13:42747,849
+810,"Connection broken for id 188978561024, my id = 2, error =",437
+811,Interrupted while waiting for message on queue,500
+812,"Connection broken for id 188978561024, my id = 2, error =",437
+813,Interrupting SendWorker,1003
+814,Received connection request /10.10.34.11:58282,849
+815,Interrupting SendWorker,1003
+816,Received connection request /10.10.34.13:42813,849
+817,"Connection broken for id 188978561024, my id = 2, error =",437
+818,Send worker leaving thread,901
+819,Interrupting SendWorker,1003
+820,Received connection request /10.10.34.13:42885,849
+821,"Connection broken for id 188978561024, my id = 2, error =",437
+822,Received connection request /10.10.34.13:42917,849
+823,Interrupted while waiting for message on queue,500
+824,"Connection broken for id 188978561024, my id = 2, error =",437
+825,"Connection broken for id 188978561024, my id = 2, error =",437
+826,Received connection request /10.10.34.13:42926,849
+827,Send worker leaving thread,901
+828,"Connection broken for id 188978561024, my id = 2, error =",437
+829,"Connection broken for id 188978561024, my id = 2, error =",437
+830,Interrupted while waiting for message on queue,500
+831,Interrupting SendWorker,1003
+832,"Connection broken for id 188978561024, my id = 2, error =",437
+833,Interrupted while waiting for message on queue,500
+834,Interrupted while waiting for message on queue,500
+835,Interrupting SendWorker,1003
+836,Interrupted while waiting for message on queue,500
+837,Interrupted while waiting for message on queue,500
+838,Interrupting SendWorker,1003
+839,Interrupted while waiting for message on queue,500
+840,Interrupted while waiting for message on queue,500
+841,Send worker leaving thread,901
+842,Interrupted while waiting for message on queue,500
+843,Interrupting SendWorker,1003
+844,Interrupted while waiting for message on queue,500
+845,"Connection broken for id 188978561024, my id = 2, error =",437
+846,Interrupting SendWorker,1003
+847,Interrupting SendWorker,1003
+848,Interrupted while waiting for message on queue,500
+849,Received connection request /10.10.34.12:55289,849
+850,Send worker leaving thread,901
+851,Interrupted while waiting for message on queue,500
+852,Interrupting SendWorker,1003
+853,Interrupted while waiting for message on queue,500
+854,Received connection request /10.10.34.11:58635,849
+855,Received connection request /10.10.34.11:58652,849
+856,"Connection broken for id 188978561024, my id = 2, error =",437
+857,Interrupting SendWorker,1003
+858,Received connection request /10.10.34.12:55346,849
+859,Interrupted while waiting for message on queue,500
+860,Interrupted while waiting for message on queue,500
+861,"Connection broken for id 188978561024, my id = 2, error =",437
+862,Send worker leaving thread,901
+863,Send worker leaving thread,901
+864,Interrupted while waiting for message on queue,500
+865,Received connection request /10.10.34.13:43233,849
+866,Send worker leaving thread,901
+867,Interrupting SendWorker,1003
+868,Send worker leaving thread,901
+869,"Connection broken for id 188978561024, my id = 2, error =",437
+870,Interrupting SendWorker,1003
+871,Received connection request /10.10.34.11:58764,849
+872,Interrupting SendWorker,1003
+873,Received connection request /10.10.34.11:58787,849
+874,Send worker leaving thread,901
+875,"Connection broken for id 188978561024, my id = 2, error =",437
+876,"Connection broken for id 188978561024, my id = 2, error =",437
+877,Interrupted while waiting for message on queue,500
+878,Send worker leaving thread,901
+879,Received connection request /10.10.34.11:58823,849
+880,Interrupted while waiting for message on queue,500
+881,Send worker leaving thread,901
+882,Interrupting SendWorker,1003
+883,Received connection request /10.10.34.13:43358,849
+884,Interrupting SendWorker,1003
+885,Interrupted while waiting for message on queue,500
+886,Received connection request /10.10.34.11:58865,849
+887,Received connection request /10.10.34.12:55548,849
+888,"Connection broken for id 188978561024, my id = 2, error =",437
+889,"Connection broken for id 188978561024, my id = 2, error =",437
+890,"Connection broken for id 188978561024, my id = 2, error =",437
+891,Interrupted while waiting for message on queue,500
+892,"Connection broken for id 188978561024, my id = 2, error =",437
+893,Interrupting SendWorker,1003
+894,Interrupting SendWorker,1003
+895,"Connection broken for id 188978561024, my id = 2, error =",437
+896,Interrupting SendWorker,1003
+897,Interrupting SendWorker,1003
+898,Interrupting SendWorker,1003
+899,Interrupted while waiting for message on queue,500
+900,Interrupting SendWorker,1003
+901,Received connection request /10.10.34.12:55648,849
+902,Send worker leaving thread,901
+903,"Connection broken for id 188978561024, my id = 2, error =",437
+904,Send worker leaving thread,901
+905,"Connection broken for id 188978561024, my id = 2, error =",437
+906,Send worker leaving thread,901
+907,Send worker leaving thread,901
+908,Interrupted while waiting for message on queue,500
+909,Received connection request /10.10.34.13:43557,849
+910,Send worker leaving thread,901
+911,Interrupting SendWorker,1003
+912,Send worker leaving thread,901
+913,Received connection request /10.10.34.13:43606,849
+914,Send worker leaving thread,901
+915,"Connection broken for id 188978561024, my id = 2, error =",437
+916,Received connection request /10.10.34.12:55803,849
+917,Send worker leaving thread,901
+918,Interrupting SendWorker,1003
+919,Send worker leaving thread,901
+920,"Connection broken for id 188978561024, my id = 2, error =",437
+921,Received connection request /10.10.34.13:43693,849
+922,Send worker leaving thread,901
+923,Send worker leaving thread,901
+924,Received connection request /10.10.34.13:43730,849
+925,Received connection request /10.10.34.11:59250,849
+926,Received connection request /10.10.34.12:55929,849
+927,"Connection broken for id 188978561024, my id = 2, error =",437
+928,"Connection broken for id 188978561024, my id = 2, error =",437
+929,Interrupting SendWorker,1003
+930,"Connection broken for id 188978561024, my id = 2, error =",437
+931,Send worker leaving thread,901
+932,Send worker leaving thread,901
+933,Interrupting SendWorker,1003
+934,"Connection broken for id 188978561024, my id = 2, error =",437
+935,Interrupted while waiting for message on queue,500
+936,Interrupted while waiting for message on queue,500
+937,Send worker leaving thread,901
+938,Interrupting SendWorker,1003
+939,Send worker leaving thread,901
+940,Interrupting SendWorker,1003
+941,"Connection broken for id 188978561024, my id = 2, error =",437
+942,Received connection request /10.10.34.11:59416,849
+943,Interrupted while waiting for message on queue,500
+944,"Connection broken for id 188978561024, my id = 2, error =",437
+945,Send worker leaving thread,901
+946,Interrupted while waiting for message on queue,500
+947,Received connection request /10.10.34.12:56057,849
+948,Interrupted while waiting for message on queue,500
+949,Received connection request /10.10.34.11:59489,849
+950,Received connection request /10.10.34.12:56093,849
+951,Received connection request /10.10.34.13:43921,849
+952,Received connection request /10.10.34.11:59513,849
+953,Send worker leaving thread,901
+954,Interrupted while waiting for message on queue,500
+955,Received connection request /10.10.34.12:56154,849
+956,Interrupted while waiting for message on queue,500
+957,Interrupting SendWorker,1003
+958,Interrupted while waiting for message on queue,500
+959,Received connection request /10.10.34.12:56173,849
+960,Send worker leaving thread,901
+961,Interrupted while waiting for message on queue,500
+962,Send worker leaving thread,901
+963,"Connection broken for id 188978561024, my id = 2, error =",437
+964,"Connection broken for id 188978561024, my id = 2, error =",437
+965,Interrupting SendWorker,1003
+966,Interrupted while waiting for message on queue,500
+967,Send worker leaving thread,901
+968,Interrupted while waiting for message on queue,500
+969,Received connection request /10.10.34.11:59657,849
+970,Send worker leaving thread,901
+971,"Connection broken for id 188978561024, my id = 2, error =",437
+972,Received connection request /10.10.34.11:59688,849
+973,Send worker leaving thread,901
+974,Received connection request /10.10.34.11:59703,849
+975,"Connection broken for id 188978561024, my id = 2, error =",437
+976,Received connection request /10.10.34.12:56270,849
+977,"Connection broken for id 188978561024, my id = 2, error =",437
+978,"Connection broken for id 188978561024, my id = 2, error =",437
+979,"Connection broken for id 188978561024, my id = 2, error =",437
+980,Received connection request /10.10.34.12:56322,849
+981,Interrupted while waiting for message on queue,500
+982,Interrupting SendWorker,1003
+983,Received connection request /10.10.34.11:59783,849
+984,Received connection request /10.10.34.12:56339,849
+985,Interrupted while waiting for message on queue,500
+986,Interrupting SendWorker,1003
+987,Send worker leaving thread,901
+988,Send worker leaving thread,901
+989,Send worker leaving thread,901
+990,Interrupted while waiting for message on queue,500
+991,Received connection request /10.10.34.11:59852,849
+992,Interrupting SendWorker,1003
+993,Interrupting SendWorker,1003
+994,Interrupted while waiting for message on queue,500
+995,Send worker leaving thread,901
+996,Interrupting SendWorker,1003
+997,"Connection broken for id 188978561024, my id = 2, error =",437
+998,Received connection request /10.10.34.11:59897,849
+999,Received connection request /10.10.34.12:56426,849
+1000,Interrupted while waiting for message on queue,500
+1001,"Connection broken for id 188978561024, my id = 2, error =",437
+1002,Interrupting SendWorker,1003
+1003,Interrupted while waiting for message on queue,500
+1004,Interrupted while waiting for message on queue,500
+1005,Interrupted while waiting for message on queue,500
+1006,"Connection broken for id 188978561024, my id = 2, error =",437
+1007,Received connection request /10.10.34.12:56483,849
+1008,Received connection request /10.10.34.11:59968,849
+1009,"Connection broken for id 188978561024, my id = 2, error =",437
+1010,Interrupted while waiting for message on queue,500
+1011,Send worker leaving thread,901
+1012,Send worker leaving thread,901
+1013,Send worker leaving thread,901
+1014,Interrupting SendWorker,1003
+1015,Interrupting SendWorker,1003
+1016,Interrupting SendWorker,1003
+1017,"Connection broken for id 188978561024, my id = 2, error =",437
+1018,Interrupting SendWorker,1003
+1019,Interrupted while waiting for message on queue,500
+1020,Send worker leaving thread,901
+1021,Received connection request /10.10.34.13:44387,849
+1022,"Connection broken for id 188978561024, my id = 2, error =",437
+1023,Send worker leaving thread,901
+1024,Received connection request /10.10.34.11:60068,849
+1025,Send worker leaving thread,901
+1026,Send worker leaving thread,901
+1027,Interrupting SendWorker,1003
+1028,Interrupted while waiting for message on queue,500
+1029,Interrupted while waiting for message on queue,500
+1030,Interrupting SendWorker,1003
+1031,"Connection broken for id 188978561024, my id = 2, error =",437
+1032,Interrupting SendWorker,1003
+1033,Received connection request /10.10.34.12:56644,849
+1034,"Connection broken for id 188978561024, my id = 2, error =",437
+1035,Send worker leaving thread,901
+1036,Interrupting SendWorker,1003
+1037,"Connection broken for id 188978561024, my id = 2, error =",437
+1038,Send worker leaving thread,901
+1039,Interrupting SendWorker,1003
+1040,Received connection request /10.10.34.11:60213,849
+1041,Interrupted while waiting for message on queue,500
+1042,Received connection request /10.10.34.13:44558,849
+1043,Interrupting SendWorker,1003
+1044,"Connection broken for id 188978561024, my id = 2, error =",437
+1045,"Connection broken for id 188978561024, my id = 2, error =",437
+1046,Send worker leaving thread,901
+1047,Interrupting SendWorker,1003
+1048,Send worker leaving thread,901
+1049,"Connection broken for id 188978561024, my id = 2, error =",437
+1050,Received connection request /10.10.34.12:56786,849
+1051,Interrupting SendWorker,1003
+1052,Send worker leaving thread,901
+1053,Interrupted while waiting for message on queue,500
+1054,"Connection broken for id 188978561024, my id = 2, error =",437
+1055,Received connection request /10.10.34.12:56830,849
+1056,Interrupting SendWorker,1003
+1057,Received connection request /10.10.34.12:56834,849
+1058,Interrupted while waiting for message on queue,500
+1059,Send worker leaving thread,901
+1060,"Connection broken for id 188978561024, my id = 2, error =",437
+1061,Interrupting SendWorker,1003
+1062,"Connection broken for id 188978561024, my id = 2, error =",437
+1063,Send worker leaving thread,901
+1064,Interrupted while waiting for message on queue,500
+1065,Interrupting SendWorker,1003
+1066,Interrupted while waiting for message on queue,500
+1067,Received connection request /10.10.34.12:56935,849
+1068,Send worker leaving thread,901
+1069,Interrupting SendWorker,1003
+1070,Send worker leaving thread,901
+1071,"Connection broken for id 188978561024, my id = 2, error =",437
+1072,Received connection request /10.10.34.12:56959,849
+1073,Interrupted while waiting for message on queue,500
+1074,Received connection request /10.10.34.13:44795,849
+1075,Interrupting SendWorker,1003
+1076,Interrupted while waiting for message on queue,500
+1077,Interrupting SendWorker,1003
+1078,Received connection request /10.10.34.13:44842,849
+1079,"Connection broken for id 188978561024, my id = 2, error =",437
+1080,Interrupting SendWorker,1003
+1081,Interrupting SendWorker,1003
+1082,Interrupting SendWorker,1003
+1083,Received connection request /10.10.34.13:44866,849
+1084,Interrupting SendWorker,1003
+1085,"Connection broken for id 188978561024, my id = 2, error =",437
+1086,Received connection request /10.10.34.13:44879,849
+1087,Send worker leaving thread,901
+1088,"Connection broken for id 188978561024, my id = 2, error =",437
+1089,Interrupted while waiting for message on queue,500
+1090,Received connection request /10.10.34.11:60575,849
+1091,Interrupting SendWorker,1003
+1092,Interrupted while waiting for message on queue,500
+1093,"Connection broken for id 188978561024, my id = 2, error =",437
+1094,Interrupting SendWorker,1003
+1095,"Connection broken for id 188978561024, my id = 2, error =",437
+1096,Interrupted while waiting for message on queue,500
+1097,Send worker leaving thread,901
+1098,Interrupting SendWorker,1003
+1099,"Connection broken for id 188978561024, my id = 2, error =",437
+1100,Send worker leaving thread,901
+1101,Interrupted while waiting for message on queue,500
+1102,Interrupted while waiting for message on queue,500
+1103,Interrupted while waiting for message on queue,500
+1104,Interrupted while waiting for message on queue,500
+1105,"Connection broken for id 188978561024, my id = 2, error =",437
+1106,Interrupting SendWorker,1003
+1107,Received connection request /10.10.34.13:44989,849
+1108,Send worker leaving thread,901
+1109,Interrupted while waiting for message on queue,500
+1110,Send worker leaving thread,901
+1111,Interrupted while waiting for message on queue,500
+1112,Received connection request /10.10.34.12:57197,849
+1113,"Connection broken for id 188978561024, my id = 2, error =",437
+1114,"Connection broken for id 188978561024, my id = 2, error =",437
+1115,Send worker leaving thread,901
+1116,Interrupted while waiting for message on queue,500
+1117,"Connection broken for id 188978561024, my id = 2, error =",437
+1118,Interrupted while waiting for message on queue,500
+1119,Send worker leaving thread,901
+1120,Interrupted while waiting for message on queue,500
+1121,Interrupted while waiting for message on queue,500
+1122,Interrupted while waiting for message on queue,500
+1123,Interrupting SendWorker,1003
+1124,Send worker leaving thread,901
+1125,Interrupted while waiting for message on queue,500
+1126,Interrupted while waiting for message on queue,500
+1127,Send worker leaving thread,901
+1128,Received connection request /10.10.34.12:57309,849
+1129,Send worker leaving thread,901
+1130,"Connection broken for id 188978561024, my id = 2, error =",437
+1131,Interrupted while waiting for message on queue,500
+1132,Send worker leaving thread,901
+1133,Interrupting SendWorker,1003
+1134,Interrupting SendWorker,1003
+1135,Interrupted while waiting for message on queue,500
+1136,"Connection broken for id 188978561024, my id = 2, error =",437
+1137,Send worker leaving thread,901
+1138,Send worker leaving thread,901
+1139,Received connection request /10.10.34.11:60936,849
+1140,Interrupted while waiting for message on queue,500
+1141,Interrupted while waiting for message on queue,500
+1142,Interrupting SendWorker,1003
+1143,Interrupting SendWorker,1003
+1144,Interrupted while waiting for message on queue,500
+1145,Send worker leaving thread,901
+1146,Received connection request /10.10.34.12:57449,849
+1147,Received connection request /10.10.34.13:45275,849
+1148,Received connection request /10.10.34.13:45295,849
+1149,Interrupted while waiting for message on queue,500
+1150,"Connection broken for id 188978561024, my id = 2, error =",437
+1151,"Connection broken for id 188978561024, my id = 2, error =",437
+1152,Send worker leaving thread,901
+1153,"Connection broken for id 188978561024, my id = 2, error =",437
+1154,Received connection request /10.10.34.12:57495,849
+1155,Interrupting SendWorker,1003
+1156,"Connection broken for id 188978561024, my id = 2, error =",437
+1157,Send worker leaving thread,901
+1158,Interrupting SendWorker,1003
+1159,Interrupting SendWorker,1003
+1160,Received connection request /10.10.34.13:45334,849
+1161,Send worker leaving thread,901
+1162,Received connection request /10.10.34.12:57523,849
+1163,Interrupted while waiting for message on queue,500
+1164,Received connection request /10.10.34.11:32868,849
+1165,"Connection broken for id 188978561024, my id = 2, error =",437
+1166,Interrupted while waiting for message on queue,500
+1167,"Connection broken for id 188978561024, my id = 2, error =",437
+1168,"Connection broken for id 188978561024, my id = 2, error =",437
+1169,Send worker leaving thread,901
+1170,Interrupted while waiting for message on queue,500
+1171,"Connection broken for id 188978561024, my id = 2, error =",437
+1172,Interrupting SendWorker,1003
+1173,"Connection broken for id 188978561024, my id = 2, error =",437
+1174,Received connection request /10.10.34.13:45406,849
+1175,Interrupted while waiting for message on queue,500
+1176,Interrupting SendWorker,1003
+1177,Interrupted while waiting for message on queue,500
+1178,Received connection request /10.10.34.11:32964,849
+1179,"Connection broken for id 188978561024, my id = 2, error =",437
+1180,Send worker leaving thread,901
+1181,"Connection broken for id 188978561024, my id = 2, error =",437
+1182,"Connection broken for id 188978561024, my id = 2, error =",437
+1183,Interrupted while waiting for message on queue,500
+1184,"Connection broken for id 188978561024, my id = 2, error =",437
+1185,Send worker leaving thread,901
+1186,"Connection broken for id 188978561024, my id = 2, error =",437
+1187,Send worker leaving thread,901
+1188,Send worker leaving thread,901
+1189,Received connection request /10.10.34.13:45509,849
+1190,"Connection broken for id 188978561024, my id = 2, error =",437
+1191,Interrupting SendWorker,1003
+1192,Interrupting SendWorker,1003
+1193,"Connection broken for id 188978561024, my id = 2, error =",437
+1194,Interrupted while waiting for message on queue,500
+1195,Interrupting SendWorker,1003
+1196,Interrupted while waiting for message on queue,500
+1197,Send worker leaving thread,901
+1198,Interrupted while waiting for message on queue,500
+1199,Interrupting SendWorker,1003
+1200,"Connection broken for id 188978561024, my id = 2, error =",437
+1201,"Connection broken for id 188978561024, my id = 2, error =",437
+1202,Send worker leaving thread,901
+1203,Interrupted while waiting for message on queue,500
+1204,Interrupted while waiting for message on queue,500
+1205,Interrupting SendWorker,1003
+1206,Send worker leaving thread,901
+1207,Send worker leaving thread,901
+1208,Interrupting SendWorker,1003
+1209,Received connection request /10.10.34.11:33138,849
+1210,Interrupted while waiting for message on queue,500
+1211,Interrupted while waiting for message on queue,500
+1212,"Connection broken for id 188978561024, my id = 2, error =",437
+1213,Received connection request /10.10.34.13:45651,849
+1214,Interrupted while waiting for message on queue,500
+1215,Received connection request /10.10.34.11:33186,849
+1216,Interrupting SendWorker,1003
+1217,Interrupting SendWorker,1003
+1218,Received connection request /10.10.34.12:57889,849
+1219,Received connection request /10.10.34.11:33246,849
+1220,Received connection request /10.10.34.12:57904,849
+1221,Interrupted while waiting for message on queue,500
+1222,Received connection request /10.10.34.13:45738,849
+1223,Received connection request /10.10.34.11:33257,849
+1224,Send worker leaving thread,901
+1225,"Connection broken for id 188978561024, my id = 2, error =",437
+1226,Interrupted while waiting for message on queue,500
+1227,Interrupting SendWorker,1003
+1228,Interrupting SendWorker,1003
+1229,"Connection broken for id 188978561024, my id = 2, error =",437
+1230,"Connection broken for id 188978561024, my id = 2, error =",437
+1231,Received connection request /10.10.34.13:45770,849
+1232,Interrupted while waiting for message on queue,500
+1233,Received connection request /10.10.34.11:33305,849
+1234,Received connection request /10.10.34.12:57965,849
+1235,Interrupting SendWorker,1003
+1236,"Connection broken for id 188978561024, my id = 2, error =",437
+1237,Received connection request /10.10.34.12:57977,849
+1238,Interrupted while waiting for message on queue,500
+1239,Interrupted while waiting for message on queue,500
+1240,Send worker leaving thread,901
+1241,Interrupting SendWorker,1003
+1242,Interrupted while waiting for message on queue,500
+1243,Send worker leaving thread,901
+1244,Send worker leaving thread,901
+1245,Interrupting SendWorker,1003
+1246,Interrupted while waiting for message on queue,500
+1247,"Connection broken for id 188978561024, my id = 2, error =",437
+1248,Interrupted while waiting for message on queue,500
+1249,Interrupted while waiting for message on queue,500
+1250,Interrupted while waiting for message on queue,500
+1251,Send worker leaving thread,901
+1252,Received connection request /10.10.34.13:45923,849
+1253,Interrupted while waiting for message on queue,500
+1254,Send worker leaving thread,901
+1255,Interrupted while waiting for message on queue,500
+1256,"Connection broken for id 188978561024, my id = 2, error =",437
+1257,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,74
+1258,caught end of stream exception,801
+1259,Accepted socket connection from /10.10.34.16:56610,743
+1260,Processed session termination for sessionid: 0x14ed93111f20005,536
+1261,Processed session termination for sessionid: 0x24ed93119420008,536
+1262,Processed session termination for sessionid: 0x14ed93111f20000,536
+1263,Accepted socket connection from /10.10.34.11:50822,743
+1264,Send worker leaving thread,901
+1265,Connection request from old client /10.10.34.13:37229; will be dropped if server is in r-o mode,171
+1266,Client attempting to establish new session at /10.10.34.13:37229,470
+1267,"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",58
+1268,Accepted socket connection from /10.10.34.11:50926,743
+1269,Accepted socket connection from /10.10.34.11:51168,743
+1270,Processed session termination for sessionid: 0x24ed9311942000c,536
+1271,Accepted socket connection from /10.10.34.21:51245,743
+1272,Connection request from old client /10.10.34.25:53326; will be dropped if server is in r-o mode,171
+1273,Client attempting to establish new session at /10.10.34.12:54610,470
+1274,"Expiring session 0x14ed93111f20020, timeout of 10000ms exceeded",625
+1275,Processed session termination for sessionid: 0x24ed93119420021,536
+1276,"Expiring session 0x24ed93119420033, timeout of 10000ms exceeded",625
+1277,"Expiring session 0x24ed9311942002a, timeout of 10000ms exceeded",625
+1278,Client attempting to establish new session at /10.10.34.27:32782,470
+1279,Processed session termination for sessionid: 0x14ed93111f2003f,536
+1280,Closed socket connection for client /10.10.34.28:37304 which had sessionid 0x24ed9311942004f,361
+1281,Processed session termination for sessionid: 0x34ed9ac1c1e0021,536
+1282,"Expiring session 0x34ed9ac1c1e002b, timeout of 10000ms exceeded",625
+1283,Processed session termination for sessionid: 0x14ed93111f20046,536
+1284,Processed session termination for sessionid: 0x34ed9ac1c1e0030,536
+1285,Accepted socket connection from /10.10.34.35:38016,743
+1286,Processed session termination for sessionid: 0x14ed93111f2004f,536
+1287,Client attempting to establish new session at /10.10.34.11:53468,470
+1288,"Expiring session 0x34ed9ac1c1e0033, timeout of 10000ms exceeded",625
+1289,Processed session termination for sessionid: 0x14ed93111f20050,536
+1290,Connection request from old client /10.10.34.12:54643; will be dropped if server is in r-o mode,171
+1291,Accepted socket connection from /10.10.34.17:46387,743
+1292,Accepted socket connection from /10.10.34.11:48701,743
+1293,"Expiring session 0x14ed93111f20068, timeout of 20000ms exceeded",625
+1294,Processed session termination for sessionid: 0x24ed93119420073,536
+1295,Closed socket connection for client /10.10.34.13:37335 which had sessionid 0x24ed93119420065,361
+1296,Closed socket connection for client /10.10.34.11:53520 which had sessionid 0x24ed9311942005f,361
+1297,caught end of stream exception,801
+1298,Processed session termination for sessionid: 0x34ed9ac1c1e005e,536
+1299,Established session 0x24ed9311942007e with negotiated timeout 10000 for client /10.10.34.12:54673,387
+1300,"Expiring session 0x34ed9ac1c1e0065, timeout of 20000ms exceeded",625
+1301,Closed socket connection for client /10.10.34.11:53857 which had sessionid 0x24ed93119420082,361
+1302,caught end of stream exception,801
+1303,Accepted socket connection from /10.10.34.11:54078,743
+1304,Accepted socket connection from /10.10.34.18:40006,743
+1305,Established session 0x24ed9311942008c with negotiated timeout 10000 for client /10.10.34.18:40006,387
+1306,Established session 0x24ed93119420091 with negotiated timeout 10000 for client /10.10.34.40:47629,387
+1307,Accepted socket connection from /10.10.34.11:54134,743
+1308,caught end of stream exception,801
+1309,Processed session termination for sessionid: 0x24ed93119420094,536
+1310,caught end of stream exception,801
+1311,Processed session termination for sessionid: 0x34ed9ac1c1e0081,536
+1312,Processed session termination for sessionid: 0x34ed9ac1c1e0080,536
+1313,caught end of stream exception,801
+1314,"Expiring session 0x34ed9ac1c1e007f, timeout of 10000ms exceeded",625
+1315,"Expiring session 0x24ed9311942008e, timeout of 10000ms exceeded",625
+1316,Processed session termination for sessionid: 0x34ed9ac1c1e007a,536
+1317,Processed session termination for sessionid: 0x34ed9ac1c1e0078,536
+1318,Established session 0x24ed931194200a4 with negotiated timeout 10000 for client /10.10.34.32:39275,387
+1319,Established session 0x24ed931194200a7 with negotiated timeout 10000 for client /10.10.34.36:45209,387
+1320,Processed session termination for sessionid: 0x34ed9ac1c1e0085,536
+1321,Closed socket connection for client /10.10.34.21:51262 which had sessionid 0x24ed931194200a0,361
+1322,caught end of stream exception,801
+1323,Processed session termination for sessionid: 0x14ed93111f200a7,536
+1324,"Expiring session 0x14ed93111f2009f, timeout of 10000ms exceeded",625
+1325,Processed session termination for sessionid: 0x34ed9ac1c1e0083,536
+1326,Established session 0x24ed931194200af with negotiated timeout 10000 for client /10.10.34.16:56646,387
+1327,Connection request from old client /10.10.34.30:60436; will be dropped if server is in r-o mode,171
+1328,"Expiring session 0x34ed9ac1c1e008f, timeout of 10000ms exceeded",625
+1329,"Expiring session 0x24ed931194200ad, timeout of 10000ms exceeded",625
+1330,"Expiring session 0x14ed93111f200d2, timeout of 10000ms exceeded",625
+1331,Processed session termination for sessionid: 0x34ed9ac1c1e00ae,536
+1332,Client attempting to establish new session at /10.10.34.13:37600,470
+1333,Connection request from old client /10.10.34.11:58424; will be dropped if server is in r-o mode,171
+1334,Client attempting to establish new session at /10.10.34.11:52866,470
+1335,caught end of stream exception,801
+1336,Received connection request /10.10.34.13:33209,849
+1337,caught end of stream exception,801
+1338,caught end of stream exception,801
+1339,Established session 0x24ede63a01b000a with negotiated timeout 10000 for client /10.10.34.13:52286,387
+1340,Closed socket connection for client /10.10.34.20:49010 which had sessionid 0x24ede63a01b000e,361
+1341,Client attempting to establish new session at /10.10.34.11:53422,470
+1342,Established session 0x24ede63a01b0027 with negotiated timeout 10000 for client /10.10.34.13:52301,387
+1343,Established session 0x24ede63a01b002a with negotiated timeout 20000 for client /10.10.34.11:54338,387
+1344,Accepted socket connection from /10.10.34.13:52310,743
+1345,Client attempting to establish new session at /10.10.34.11:54576,470
+1346,caught end of stream exception,801
+1347,Established session 0x24ede63a01b006c with negotiated timeout 10000 for client /10.10.34.40:47637,387
+1348,Starting quorum peer,1024
+1349,Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1070
+1350,Client attempting to establish new session at /10.10.34.35:59458,470
+1351,Closed socket connection for client /10.10.34.37:32918 which had sessionid 0x24edfaa8717000c,361
+1352,"Expiring session 0x34edfaa9c22000d, timeout of 10000ms exceeded",625
+1353,"Expiring session 0x24edfaa87170002, timeout of 10000ms exceeded",625
+1354,Connection request from old client /10.10.34.12:54126; will be dropped if server is in r-o mode,171
+1355,Client attempting to establish new session at /10.10.34.11:57796,470
+1356,Established session 0x24edfaa87170018 with negotiated timeout 10000 for client /10.10.34.21:42521,387
+1357,"Expiring session 0x24edfaa87170010, timeout of 10000ms exceeded",625
+1358,Closed socket connection for client /10.10.34.24:45152 which had sessionid 0x24edfaa8717001a,361
+1359,Processed session termination for sessionid: 0x14edfaa86f60019,536
+1360,Accepted socket connection from /10.10.34.12:54230,743
+1361,Accepted socket connection from /10.10.34.34:56149,743
+1362,"Expiring session 0x34edfaa9c220022, timeout of 10000ms exceeded",625
+1363,Processed session termination for sessionid: 0x14edfaa86f6002d,536
+1364,Processed session termination for sessionid: 0x24edfaa8717002d,536
+1365,"Expiring session 0x14edfaa86f6002a, timeout of 10000ms exceeded",625
+1366,Closed socket connection for client /10.10.34.13:45817 which had sessionid 0x24edfaa87170022,361
+1367,Client attempting to establish new session at /10.10.34.12:54235,470
+1368,caught end of stream exception,801
+1369,Closed socket connection for client /10.10.34.12:54237 which had sessionid 0x24edfaa87170035,361
+1370,"Expiring session 0x14edfaa86f60031, timeout of 10000ms exceeded",625
+1371,Connection request from old client /10.10.34.30:55417; will be dropped if server is in r-o mode,171
+1372,Client attempting to establish new session at /10.10.34.40:42622,470
+1373,caught end of stream exception,801
+1374,Processed session termination for sessionid: 0x34edfaa9c22003d,536
+1375,Processed session termination for sessionid: 0x14edfaa86f60047,536
+1376,autopurge.purgeInterval set to 0,851
+1377,Received connection request /10.10.34.11:59599,849
+1378,Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1070
+1379,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,883
+1380,Interrupted while waiting for message on queue,500
+1381,Closed socket connection for client /10.10.34.27:36125 which had sessionid 0x24ee30a54f5000e,361
+1382,Processed session termination for sessionid: 0x34ee30a5c53000a,536
+1383,Established session 0x24ee30a54f5001c with negotiated timeout 10000 for client /10.10.34.32:45013,387
+1384,"Expiring session 0x24ee30a54f50017, timeout of 10000ms exceeded",625
+1385,"Expiring session 0x24ee30a54f5001d, timeout of 10000ms exceeded",625
+1386,Processed session termination for sessionid: 0x24ee30a54f50019,536
+1387,Processed session termination for sessionid: 0x24ee30a54f5001a,536
+1388,Processed session termination for sessionid: 0x34ee30a5c530011,536
+1389,Established session 0x24ee30a54f5001e with negotiated timeout 20000 for client /10.10.34.11:45101,387
+1390,Established session 0x24ee30a54f5001f with negotiated timeout 10000 for client /10.10.34.11:45102,387
+1391,Accepted socket connection from /10.10.34.25:44785,743
+1392,Client attempting to establish new session at /10.10.34.41:45882,470
+1393,"Expiring session 0x24ee30a54f50025, timeout of 10000ms exceeded",625
+1394,"Expiring session 0x24ee30a54f50027, timeout of 10000ms exceeded",625
+1395,"Expiring session 0x14ee3e057ed002a, timeout of 10000ms exceeded",625
+1396,"Expiring session 0x34ee30a5c53002a, timeout of 10000ms exceeded",625
+1397,Cannot open channel to 3 at election address /10.10.34.13:3888,501
+1398,Connection request from old client /10.10.34.20:44648; will be dropped if server is in r-o mode,171
+1399,Connection request from old client /10.10.34.18:49139; will be dropped if server is in r-o mode,171
+1400,caught end of stream exception,801
+1401,Client attempting to establish new session at /10.10.34.11:50990,470
+1402,Established session 0x24f0557806a001e with negotiated timeout 10000 for client /10.10.34.11:51000,387
+1403,Connection request from old client /10.10.34.25:44819; will be dropped if server is in r-o mode,171
+1404,Connection request from old client /10.10.34.15:49471; will be dropped if server is in r-o mode,171
+1405,Revalidating client: 0x24f0557806a001c,1004
+1406,autopurge.purgeInterval set to 0,851
+1407,maxSessionTimeout set to -1,867
+1408,Received connection request /10.10.34.13:44925,849
+1409,FOLLOWING,1171
+1410,Connection request from old client /10.10.34.11:51259; will be dropped if server is in r-o mode,171
+1411,Accepted socket connection from /10.10.34.11:51260,743
+1412,Client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969,586
+1413,caught end of stream exception,801
+1414,Closed socket connection for client /10.10.34.13:36187 which had sessionid 0x24f0557806a001b,361
+1415,Established session 0x24f1724b8af0009 with negotiated timeout 10000 for client /10.10.34.21:44834,387
+1416,Accepted socket connection from /10.10.34.11:51562,743
+1417,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,960
+1418,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,211
+1419,"Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)",58
+1420,"Expiring session 0x14f1724a6e80011, timeout of 10000ms exceeded",625
+1421,Processed session termination for sessionid: 0x34f1724a35e000c,536
+1422,Processed session termination for sessionid: 0x14f1724a6e8000d,536
+1423,Client attempting to establish new session at /10.10.34.12:36322,470
+1424,"Expiring session 0x14f3fdae8ba0002, timeout of 10000ms exceeded",625
+1425,Processed session termination for sessionid: 0x14f3fdae8ba0001,536
+1426,"Expiring session 0x24f3fdaf738000a, timeout of 10000ms exceeded",625
+1427,shutdown of request processor complete,661
+1428,Accepted socket connection from /10.10.34.12:36358,743
+1429,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,162
+1430,Closed socket connection for client /10.10.34.12:36401 (no session established for client),196
+1431,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,162
+1432,First is 0x0,1166
+1433,"Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)",58
+1434,"Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)",58
+1435,"Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded",625
+1436,"Expiring session 0x14f3fdae8ba000c, timeout of 10000ms exceeded",625
+1437,"Expiring session 0x24f3fdaf7380008, timeout of 10000ms exceeded",625
+1438,Closed socket connection for client /10.10.34.19:60483 which had sessionid 0x24f4a631df90002,361
+1439,"Expiring session 0x24f4a631df90002, timeout of 10000ms exceeded",625
+1440,Established session 0x24f4a631df9000e with negotiated timeout 10000 for client /10.10.34.16:53681,387
+1441,Processed session termination for sessionid: 0x34f4a63146b000f,536
+1442,Processed session termination for sessionid: 0x14f4a6318b80004,536
+1443,Accepted socket connection from /10.10.34.40:39952,743
+1444,Established session 0x24f4a631df90016 with negotiated timeout 10000 for client /10.10.34.40:39952,387
+1445,caught end of stream exception,801
+1446,Closed socket connection for client /10.10.34.11:34266 which had sessionid 0x24f4a631df9000a,361
+1447,Closed socket connection for client /10.10.34.12:36890 which had sessionid 0x24f4a631df9000b,361
+1448,Closed socket connection for client /10.10.34.15:59330 which had sessionid 0x24f4a631df9001d,361
+1449,Processed session termination for sessionid: 0x14f4a6318b80019,536
+1450,Client attempting to establish new session at /10.10.34.21:53818,470
+1451,Connection request from old client /10.10.34.35:47894; will be dropped if server is in r-o mode,171
+1452,"Expiring session 0x34f4a63146b0048, timeout of 10000ms exceeded",625
+1453,autopurge.purgeInterval set to 0,851
+1454,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1108
+1455,Sending DIFF,1136
+1456,"Expiring session 0x24f4a631df90029, timeout of 10000ms exceeded",625
+1457,Processed session termination for sessionid: 0x34f4a63146b003c,536
+1458,Processed session termination for sessionid: 0x14f4a6318b8002f,536
+1459,LOOKING,1187
+1460,Getting a snapshot from leader,802
+1461,Cannot open channel to 2 at election address /10.10.34.12:3888,501
+1462,"Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)",58
+1463,"Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)",58
+1464,Interrupted while waiting for message on queue,500
+1465,"Connection broken for id 188978561024, my id = 3, error =",437
+1466,"Connection broken for id 188978561024, my id = 3, error =",437
+1467,Send worker leaving thread,901
+1468,Send worker leaving thread,901
+1469,Send worker leaving thread,901
+1470,Interrupted while waiting for message on queue,500
+1471,Interrupting SendWorker,1003
+1472,Send worker leaving thread,901
+1473,Send worker leaving thread,901
+1474,Received connection request /10.10.34.13:44219,849
+1475,"Connection broken for id 188978561024, my id = 3, error =",437
+1476,Interrupting SendWorker,1003
+1477,Received connection request /10.10.34.11:46538,849
+1478,Interrupted while waiting for message on queue,500
+1479,"Connection broken for id 188978561024, my id = 3, error =",437
+1480,Received connection request /10.10.34.13:44256,849
+1481,Send worker leaving thread,901
+1482,Received connection request /10.10.34.11:46592,849
+1483,Send worker leaving thread,901
+1484,Interrupting SendWorker,1003
+1485,"Connection broken for id 188978561024, my id = 3, error =",437
+1486,Send worker leaving thread,901
+1487,"Connection broken for id 188978561024, my id = 3, error =",437
+1488,Send worker leaving thread,901
+1489,"Connection broken for id 188978561024, my id = 3, error =",437
+1490,Interrupting SendWorker,1003
+1491,Send worker leaving thread,901
+1492,Received connection request /10.10.34.12:47103,849
+1493,Received connection request /10.10.34.13:44377,849
+1494,Interrupting SendWorker,1003
+1495,Interrupting SendWorker,1003
+1496,Received connection request /10.10.34.11:46722,849
+1497,"Connection broken for id 188978561024, my id = 3, error =",437
+1498,Send worker leaving thread,901
+1499,Received connection request /10.10.34.12:47157,849
+1500,Received connection request /10.10.34.12:47180,849
+1501,"Connection broken for id 188978561024, my id = 3, error =",437
+1502,Send worker leaving thread,901
+1503,Interrupted while waiting for message on queue,500
+1504,"Connection broken for id 188978561024, my id = 3, error =",437
+1505,"Connection broken for id 188978561024, my id = 3, error =",437
+1506,Interrupted while waiting for message on queue,500
+1507,Interrupted while waiting for message on queue,500
+1508,Send worker leaving thread,901
+1509,"Connection broken for id 188978561024, my id = 3, error =",437
+1510,Interrupting SendWorker,1003
+1511,Received connection request /10.10.34.11:46842,849
+1512,Received connection request /10.10.34.12:47258,849
+1513,Interrupted while waiting for message on queue,500
+1514,"Connection broken for id 188978561024, my id = 3, error =",437
+1515,Send worker leaving thread,901
+1516,Received connection request /10.10.34.12:47300,849
+1517,Send worker leaving thread,901
+1518,Send worker leaving thread,901
+1519,Received connection request /10.10.34.13:44590,849
+1520,Received connection request /10.10.34.11:46914,849
+1521,Send worker leaving thread,901
+1522,Send worker leaving thread,901
+1523,Send worker leaving thread,901
+1524,Interrupted while waiting for message on queue,500
+1525,Interrupted while waiting for message on queue,500
+1526,Send worker leaving thread,901
+1527,Received connection request /10.10.34.12:47373,849
+1528,Send worker leaving thread,901
+1529,Send worker leaving thread,901
+1530,Interrupted while waiting for message on queue,500
+1531,"Connection broken for id 188978561024, my id = 3, error =",437
+1532,"Connection broken for id 188978561024, my id = 3, error =",437
+1533,"Connection broken for id 188978561024, my id = 3, error =",437
+1534,Interrupted while waiting for message on queue,500
+1535,Send worker leaving thread,901
+1536,Send worker leaving thread,901
+1537,Interrupting SendWorker,1003
+1538,Send worker leaving thread,901
+1539,Received connection request /10.10.34.13:44732,849
+1540,"Connection broken for id 188978561024, my id = 3, error =",437
+1541,"Connection broken for id 188978561024, my id = 3, error =",437
+1542,Interrupted while waiting for message on queue,500
+1543,Interrupting SendWorker,1003
+1544,Interrupted while waiting for message on queue,500
+1545,Send worker leaving thread,901
+1546,Interrupting SendWorker,1003
+1547,Send worker leaving thread,901
+1548,Send worker leaving thread,901
+1549,Interrupting SendWorker,1003
+1550,Interrupting SendWorker,1003
+1551,Send worker leaving thread,901
+1552,Received connection request /10.10.34.13:44813,849
+1553,Interrupted while waiting for message on queue,500
+1554,Received connection request /10.10.34.11:47145,849
+1555,Send worker leaving thread,901
+1556,"Connection broken for id 188978561024, my id = 3, error =",437
+1557,Interrupting SendWorker,1003
+1558,Interrupted while waiting for message on queue,500
+1559,Send worker leaving thread,901
+1560,Interrupting SendWorker,1003
+1561,Interrupting SendWorker,1003
+1562,Interrupted while waiting for message on queue,500
+1563,Received connection request /10.10.34.12:47623,849
+1564,"Connection broken for id 188978561024, my id = 3, error =",437
+1565,Send worker leaving thread,901
+1566,Interrupting SendWorker,1003
+1567,Received connection request /10.10.34.12:47635,849
+1568,Send worker leaving thread,901
+1569,"Connection broken for id 188978561024, my id = 3, error =",437
+1570,"Connection broken for id 188978561024, my id = 3, error =",437
+1571,Received connection request /10.10.34.11:47287,849
+1572,Send worker leaving thread,901
+1573,Interrupted while waiting for message on queue,500
+1574,Received connection request /10.10.34.13:44990,849
+1575,"Connection broken for id 188978561024, my id = 3, error =",437
+1576,Received connection request /10.10.34.13:45020,849
+1577,Interrupting SendWorker,1003
+1578,Received connection request /10.10.34.12:47767,849
+1579,Interrupted while waiting for message on queue,500
+1580,Interrupted while waiting for message on queue,500
+1581,"Connection broken for id 188978561024, my id = 3, error =",437
+1582,Received connection request /10.10.34.11:47367,849
+1583,Interrupted while waiting for message on queue,500
+1584,"Connection broken for id 188978561024, my id = 3, error =",437
+1585,Received connection request /10.10.34.13:45053,849
+1586,Interrupting SendWorker,1003
+1587,Send worker leaving thread,901
+1588,"Connection broken for id 188978561024, my id = 3, error =",437
+1589,Interrupting SendWorker,1003
+1590,Interrupted while waiting for message on queue,500
+1591,Interrupted while waiting for message on queue,500
+1592,Send worker leaving thread,901
+1593,Interrupting SendWorker,1003
+1594,Interrupting SendWorker,1003
+1595,Send worker leaving thread,901
+1596,Interrupted while waiting for message on queue,500
+1597,Send worker leaving thread,901
+1598,Received connection request /10.10.34.11:47512,849
+1599,Received connection request /10.10.34.11:47515,849
+1600,Received connection request /10.10.34.12:47931,849
+1601,Interrupted while waiting for message on queue,500
+1602,Interrupting SendWorker,1003
+1603,Interrupted while waiting for message on queue,500
+1604,Received connection request /10.10.34.12:47954,849
+1605,"Connection broken for id 188978561024, my id = 3, error =",437
+1606,Send worker leaving thread,901
+1607,Interrupted while waiting for message on queue,500
+1608,Interrupted while waiting for message on queue,500
+1609,Interrupting SendWorker,1003
+1610,Received connection request /10.10.34.11:47613,849
+1611,"Connection broken for id 188978561024, my id = 3, error =",437
+1612,Send worker leaving thread,901
+1613,Interrupted while waiting for message on queue,500
+1614,Interrupting SendWorker,1003
+1615,"Connection broken for id 188978561024, my id = 3, error =",437
+1616,Received connection request /10.10.34.13:45309,849
+1617,Interrupted while waiting for message on queue,500
+1618,Interrupting SendWorker,1003
+1619,Received connection request /10.10.34.12:48047,849
+1620,Received connection request /10.10.34.12:48048,849
+1621,"Connection broken for id 188978561024, my id = 3, error =",437
+1622,Interrupting SendWorker,1003
+1623,Received connection request /10.10.34.13:45343,849
+1624,Interrupting SendWorker,1003
+1625,Send worker leaving thread,901
+1626,"Connection broken for id 188978561024, my id = 3, error =",437
+1627,Interrupted while waiting for message on queue,500
+1628,Interrupted while waiting for message on queue,500
+1629,Interrupted while waiting for message on queue,500
+1630,Received connection request /10.10.34.13:45392,849
+1631,Interrupted while waiting for message on queue,500
+1632,Interrupting SendWorker,1003
+1633,"Connection broken for id 188978561024, my id = 3, error =",437
+1634,Interrupting SendWorker,1003
+1635,"Connection broken for id 188978561024, my id = 3, error =",437
+1636,Received connection request /10.10.34.13:45424,849
+1637,Interrupting SendWorker,1003
+1638,Interrupted while waiting for message on queue,500
+1639,Send worker leaving thread,901
+1640,Interrupted while waiting for message on queue,500
+1641,Interrupted while waiting for message on queue,500
+1642,Send worker leaving thread,901
+1643,Interrupted while waiting for message on queue,500
+1644,Received connection request /10.10.34.13:45439,849
+1645,"Connection broken for id 188978561024, my id = 3, error =",437
+1646,Interrupting SendWorker,1003
+1647,Interrupted while waiting for message on queue,500
+1648,Received connection request /10.10.34.12:48218,849
+1649,Received connection request /10.10.34.12:48235,849
+1650,Interrupting SendWorker,1003
+1651,Interrupting SendWorker,1003
+1652,"Connection broken for id 188978561024, my id = 3, error =",437
+1653,Received connection request /10.10.34.12:48257,849
+1654,Interrupting SendWorker,1003
+1655,Received connection request /10.10.34.13:45532,849
+1656,Interrupted while waiting for message on queue,500
+1657,Interrupted while waiting for message on queue,500
+1658,Received connection request /10.10.34.11:48000,849
+1659,"Connection broken for id 188978561024, my id = 3, error =",437
+1660,Interrupting SendWorker,1003
+1661,Interrupting SendWorker,1003
+1662,Interrupting SendWorker,1003
+1663,Received connection request /10.10.34.11:48067,849
+1664,Send worker leaving thread,901
+1665,Received connection request /10.10.34.13:45644,849
+1666,Interrupted while waiting for message on queue,500
+1667,Interrupted while waiting for message on queue,500
+1668,"Connection broken for id 188978561024, my id = 3, error =",437
+1669,Interrupted while waiting for message on queue,500
+1670,Received connection request /10.10.34.12:48426,849
+1671,Interrupted while waiting for message on queue,500
+1672,Received connection request /10.10.34.13:45695,849
+1673,Send worker leaving thread,901
+1674,Interrupted while waiting for message on queue,500
+1675,Send worker leaving thread,901
+1676,Received connection request /10.10.34.12:48457,849
+1677,Send worker leaving thread,901
+1678,Received connection request /10.10.34.11:48189,849
+1679,Received connection request /10.10.34.13:45745,849
+1680,Send worker leaving thread,901
+1681,Interrupting SendWorker,1003
+1682,"Connection broken for id 188978561024, my id = 3, error =",437
+1683,Interrupted while waiting for message on queue,500
+1684,Send worker leaving thread,901
+1685,Send worker leaving thread,901
+1686,Interrupted while waiting for message on queue,500
+1687,Received connection request /10.10.34.11:48254,849
+1688,Interrupted while waiting for message on queue,500
+1689,Interrupted while waiting for message on queue,500
+1690,"Connection broken for id 188978561024, my id = 3, error =",437
+1691,Interrupted while waiting for message on queue,500
+1692,Interrupted while waiting for message on queue,500
+1693,Interrupting SendWorker,1003
+1694,Interrupting SendWorker,1003
+1695,"Connection broken for id 188978561024, my id = 3, error =",437
+1696,Interrupted while waiting for message on queue,500
+1697,"Connection broken for id 188978561024, my id = 3, error =",437
+1698,Interrupting SendWorker,1003
+1699,Interrupting SendWorker,1003
+1700,Interrupting SendWorker,1003
+1701,Interrupted while waiting for message on queue,500
+1702,Received connection request /10.10.34.11:48373,849
+1703,Interrupted while waiting for message on queue,500
+1704,Send worker leaving thread,901
+1705,Received connection request /10.10.34.13:45894,849
+1706,Received connection request /10.10.34.11:48394,849
+1707,Interrupting SendWorker,1003
+1708,Interrupting SendWorker,1003
+1709,Received connection request /10.10.34.11:48420,849
+1710,"Connection broken for id 188978561024, my id = 3, error =",437
+1711,"Connection broken for id 188978561024, my id = 3, error =",437
+1712,Interrupting SendWorker,1003
+1713,"Connection broken for id 188978561024, my id = 3, error =",437
+1714,Interrupting SendWorker,1003
+1715,Received connection request /10.10.34.11:48478,849
+1716,Interrupted while waiting for message on queue,500
+1717,Received connection request /10.10.34.11:48502,849
+1718,Received connection request /10.10.34.12:48751,849
+1719,"Connection broken for id 188978561024, my id = 3, error =",437
+1720,Send worker leaving thread,901
+1721,"Connection broken for id 188978561024, my id = 3, error =",437
+1722,Interrupted while waiting for message on queue,500
+1723,Received connection request /10.10.34.12:48811,849
+1724,Received connection request /10.10.34.13:46083,849
+1725,Send worker leaving thread,901
+1726,Interrupting SendWorker,1003
+1727,Interrupted while waiting for message on queue,500
+1728,Send worker leaving thread,901
+1729,Interrupted while waiting for message on queue,500
+1730,Received connection request /10.10.34.11:48602,849
+1731,Received connection request /10.10.34.13:46110,849
+1732,Interrupted while waiting for message on queue,500
+1733,Send worker leaving thread,901
+1734,Received connection request /10.10.34.13:46143,849
+1735,Send worker leaving thread,901
+1736,"Connection broken for id 188978561024, my id = 3, error =",437
+1737,"Connection broken for id 188978561024, my id = 3, error =",437
+1738,Interrupted while waiting for message on queue,500
+1739,Received connection request /10.10.34.13:46170,849
+1740,"Connection broken for id 188978561024, my id = 3, error =",437
+1741,Received connection request /10.10.34.11:48672,849
+1742,Send worker leaving thread,901
+1743,Interrupted while waiting for message on queue,500
+1744,"Connection broken for id 188978561024, my id = 3, error =",437
+1745,Interrupting SendWorker,1003
+1746,"Connection broken for id 188978561024, my id = 3, error =",437
+1747,"Connection broken for id 188978561024, my id = 3, error =",437
+1748,"Connection broken for id 188978561024, my id = 3, error =",437
+1749,Send worker leaving thread,901
+1750,Interrupted while waiting for message on queue,500
+1751,Interrupted while waiting for message on queue,500
+1752,Interrupted while waiting for message on queue,500
+1753,Interrupting SendWorker,1003
+1754,"Connection broken for id 188978561024, my id = 3, error =",437
+1755,Interrupting SendWorker,1003
+1756,"Connection broken for id 188978561024, my id = 3, error =",437
+1757,Interrupted while waiting for message on queue,500
+1758,Send worker leaving thread,901
+1759,Received connection request /10.10.34.12:49076,849
+1760,"Connection broken for id 188978561024, my id = 3, error =",437
+1761,"Connection broken for id 188978561024, my id = 3, error =",437
+1762,Interrupting SendWorker,1003
+1763,"Connection broken for id 188978561024, my id = 3, error =",437
+1764,Interrupting SendWorker,1003
+1765,Send worker leaving thread,901
+1766,Received connection request /10.10.34.13:46410,849
+1767,Send worker leaving thread,901
+1768,Interrupted while waiting for message on queue,500
+1769,Interrupted while waiting for message on queue,500
+1770,Received connection request /10.10.34.13:46458,849
+1771,Interrupted while waiting for message on queue,500
+1772,Received connection request /10.10.34.12:49206,849
+1773,"Connection broken for id 188978561024, my id = 3, error =",437
+1774,Received connection request /10.10.34.12:49218,849
+1775,Interrupted while waiting for message on queue,500
+1776,Interrupted while waiting for message on queue,500
+1777,Interrupting SendWorker,1003
+1778,Send worker leaving thread,901
+1779,"Connection broken for id 188978561024, my id = 3, error =",437
+1780,Send worker leaving thread,901
+1781,Interrupting SendWorker,1003
+1782,Interrupted while waiting for message on queue,500
+1783,Interrupted while waiting for message on queue,500
+1784,Received connection request /10.10.34.12:49270,849
+1785,Interrupting SendWorker,1003
+1786,Received connection request /10.10.34.13:46563,849
+1787,Received connection request /10.10.34.11:49095,849
+1788,Interrupted while waiting for message on queue,500
+1789,Received connection request /10.10.34.12:49316,849
+1790,Send worker leaving thread,901
+1791,Interrupted while waiting for message on queue,500
+1792,"Connection broken for id 188978561024, my id = 3, error =",437
+1793,"Connection broken for id 188978561024, my id = 3, error =",437
+1794,Interrupting SendWorker,1003
+1795,Interrupting SendWorker,1003
+1796,Send worker leaving thread,901
+1797,"Connection broken for id 188978561024, my id = 3, error =",437
+1798,"Connection broken for id 188978561024, my id = 3, error =",437
+1799,Interrupting SendWorker,1003
+1800,Received connection request /10.10.34.11:49183,849
+1801,Interrupted while waiting for message on queue,500
+1802,Interrupted while waiting for message on queue,500
+1803,Interrupting SendWorker,1003
+1804,Received connection request /10.10.34.11:49215,849
+1805,Send worker leaving thread,901
+1806,"Connection broken for id 188978561024, my id = 3, error =",437
+1807,"Connection broken for id 188978561024, my id = 3, error =",437
+1808,Interrupted while waiting for message on queue,500
+1809,Received connection request /10.10.34.13:46694,849
+1810,Send worker leaving thread,901
+1811,Interrupting SendWorker,1003
+1812,"Connection broken for id 188978561024, my id = 3, error =",437
+1813,"Connection broken for id 188978561024, my id = 3, error =",437
+1814,Interrupting SendWorker,1003
+1815,Received connection request /10.10.34.11:49283,849
+1816,Send worker leaving thread,901
+1817,Received connection request /10.10.34.11:49300,849
+1818,Send worker leaving thread,901
+1819,"Connection broken for id 188978561024, my id = 3, error =",437
+1820,Interrupting SendWorker,1003
+1821,Interrupted while waiting for message on queue,500
+1822,Interrupted while waiting for message on queue,500
+1823,Send worker leaving thread,901
+1824,Interrupted while waiting for message on queue,500
+1825,Received connection request /10.10.34.11:49361,849
+1826,"Connection broken for id 188978561024, my id = 3, error =",437
+1827,"Connection broken for id 188978561024, my id = 3, error =",437
+1828,Interrupting SendWorker,1003
+1829,Received connection request /10.10.34.11:49396,849
+1830,Interrupted while waiting for message on queue,500
+1831,"Connection broken for id 188978561024, my id = 3, error =",437
+1832,Received connection request /10.10.34.12:49598,849
+1833,Interrupted while waiting for message on queue,500
+1834,"Connection broken for id 188978561024, my id = 3, error =",437
+1835,"Connection broken for id 188978561024, my id = 3, error =",437
+1836,"Connection broken for id 188978561024, my id = 3, error =",437
+1837,Send worker leaving thread,901
+1838,Interrupting SendWorker,1003
+1839,Received connection request /10.10.34.11:49480,849
+1840,"Connection broken for id 188978561024, my id = 3, error =",437
+1841,Send worker leaving thread,901
+1842,Received connection request /10.10.34.13:46922,849
+1843,Interrupted while waiting for message on queue,500
+1844,"Connection broken for id 188978561024, my id = 3, error =",437
+1845,Received connection request /10.10.34.12:49670,849
+1846,"Connection broken for id 188978561024, my id = 3, error =",437
+1847,"Connection broken for id 188978561024, my id = 3, error =",437
+1848,Interrupting SendWorker,1003
+1849,Interrupting SendWorker,1003
+1850,"Connection broken for id 188978561024, my id = 3, error =",437
+1851,Interrupting SendWorker,1003
+1852,Interrupted while waiting for message on queue,500
+1853,Interrupted while waiting for message on queue,500
+1854,"Connection broken for id 188978561024, my id = 3, error =",437
+1855,"Connection broken for id 188978561024, my id = 3, error =",437
+1856,"Connection broken for id 188978561024, my id = 3, error =",437
+1857,Received connection request /10.10.34.11:49566,849
+1858,Send worker leaving thread,901
+1859,Interrupting SendWorker,1003
+1860,Interrupting SendWorker,1003
+1861,"Connection broken for id 188978561024, my id = 3, error =",437
+1862,Received connection request /10.10.34.11:49590,849
+1863,Interrupted while waiting for message on queue,500
+1864,"Connection broken for id 188978561024, my id = 3, error =",437
+1865,"Connection broken for id 188978561024, my id = 3, error =",437
+1866,Received connection request /10.10.34.13:47032,849
+1867,Interrupted while waiting for message on queue,500
+1868,Received connection request /10.10.34.12:49786,849
+1869,Interrupted while waiting for message on queue,500
+1870,"Connection broken for id 188978561024, my id = 3, error =",437
+1871,Interrupting SendWorker,1003
+1872,Received connection request /10.10.34.11:49662,849
+1873,"Connection broken for id 188978561024, my id = 3, error =",437
+1874,Interrupted while waiting for message on queue,500
+1875,Received connection request /10.10.34.12:49822,849
+1876,"Connection broken for id 188978561024, my id = 3, error =",437
+1877,Received connection request /10.10.34.13:47115,849
+1878,Interrupting SendWorker,1003
+1879,Interrupted while waiting for message on queue,500
+1880,"Connection broken for id 188978561024, my id = 3, error =",437
+1881,"Connection broken for id 188978561024, my id = 3, error =",437
+1882,Received connection request /10.10.34.13:47199,849
+1883,Interrupted while waiting for message on queue,500
+1884,Interrupted while waiting for message on queue,500
+1885,Received connection request /10.10.34.13:47234,849
+1886,"Connection broken for id 188978561024, my id = 3, error =",437
+1887,"Connection broken for id 188978561024, my id = 3, error =",437
+1888,Interrupting SendWorker,1003
+1889,"Connection broken for id 188978561024, my id = 3, error =",437
+1890,Interrupted while waiting for message on queue,500
+1891,Received connection request /10.10.34.12:49993,849
+1892,Interrupted while waiting for message on queue,500
+1893,Send worker leaving thread,901
+1894,Received connection request /10.10.34.13:47282,849
+1895,Interrupting SendWorker,1003
+1896,Send worker leaving thread,901
+1897,Received connection request /10.10.34.11:49880,849
+1898,Send worker leaving thread,901
+1899,Send worker leaving thread,901
+1900,Received connection request /10.10.34.13:47340,849
+1901,Received connection request /10.10.34.13:47342,849
+1902,Interrupted while waiting for message on queue,500
+1903,Received connection request /10.10.34.11:49938,849
+1904,Received connection request /10.10.34.11:49949,849
+1905,Received connection request /10.10.34.11:49957,849
+1906,"Connection broken for id 188978561024, my id = 3, error =",437
+1907,"Connection broken for id 188978561024, my id = 3, error =",437
+1908,Send worker leaving thread,901
+1909,"Connection broken for id 188978561024, my id = 3, error =",437
+1910,Interrupted while waiting for message on queue,500
+1911,Received connection request /10.10.34.13:47454,849
+1912,Received connection request /10.10.34.13:47464,849
+1913,"Connection broken for id 188978561024, my id = 3, error =",437
+1914,Send worker leaving thread,901
+1915,Interrupting SendWorker,1003
+1916,Interrupted while waiting for message on queue,500
+1917,Received connection request /10.10.34.13:47500,849
+1918,"Connection broken for id 188978561024, my id = 3, error =",437
+1919,Interrupting SendWorker,1003
+1920,Closed socket connection for client /10.10.34.13:54265 (no session established for client),196
+1921,"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LOOKING (my state)",58
+1922,Closed socket connection for client /10.10.34.13:54294 (no session established for client),196
+1923,Accepted socket connection from /10.10.34.13:54298,743
+1924,Accepted socket connection from /10.10.34.13:54310,743
+1925,Established session 0x34ed9ac1c1e0007 with negotiated timeout 10000 for client /10.10.34.12:59224,387
+1926,Connection request from old client /10.10.34.12:59230; will be dropped if server is in r-o mode,171
+1927,Accepted socket connection from /10.10.34.12:59235,743
+1928,Client attempting to establish new session at /10.10.34.17:51260,470
+1929,Client attempting to establish new session at /10.10.34.38:43508,470
+1930,caught end of stream exception,801
+1931,Established session 0x34ed9ac1c1e002e with negotiated timeout 10000 for client /10.10.34.42:39469,387
+1932,Established session 0x34ed9ac1c1e0036 with negotiated timeout 10000 for client /10.10.34.36:37583,387
+1933,Client attempting to establish new session at /10.10.34.39:45022,470
+1934,Accepted socket connection from /10.10.34.41:54923,743
+1935,Accepted socket connection from /10.10.34.11:35811,743
+1936,caught end of stream exception,801
+1937,Accepted socket connection from /10.10.34.11:37021,743
+1938,Closed socket connection for client /10.10.34.12:59284 which had sessionid 0x34ed9ac1c1e0059,361
+1939,caught end of stream exception,801
+1940,Client attempting to establish new session at /10.10.34.13:54387,470
+1941,Established session 0x34ed9ac1c1e0064 with negotiated timeout 10000 for client /10.10.34.11:37111,387
+1942,Connection request from old client /10.10.34.11:37116; will be dropped if server is in r-o mode,171
+1943,Accepted socket connection from /10.10.34.11:37330,743
+1944,Closed socket connection for client /10.10.34.18:46783 which had sessionid 0x34ed9ac1c1e0086,361
+1945,Closed socket connection for client /10.10.34.11:40581 which had sessionid 0x34ed9ac1c1e0093,361
+1946,caught end of stream exception,801
+1947,Accepted socket connection from /10.10.34.12:59323,743
+1948,Connection request from old client /10.10.34.13:54616; will be dropped if server is in r-o mode,171
+1949,Connection request from old client /10.10.34.14:49822; will be dropped if server is in r-o mode,171
+1950,Closed socket connection for client /10.10.34.11:41160 which had sessionid 0x34ed9ac1c1e00a9,361
+1951,Accepted socket connection from /10.10.34.12:59359,743
+1952,Accepted socket connection from /10.10.34.13:54649,743
+1953,Accepted socket connection from /10.10.34.11:41732,743
+1954,caught end of stream exception,801
+1955,"Connection broken for id 1, my id = 3, error =",437
+1956,Established session 0x34ed9ac1c1e00d1 with negotiated timeout 10000 for client /10.10.34.11:49255,387
+1957,LOOKING,1187
+1958,"Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)",58
+1959,Accepted socket connection from /10.10.34.13:50180,743
+1960,Connection request from old client /10.10.34.11:50716; will be dropped if server is in r-o mode,171
+1961,Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961,387
+1962,Established session 0x34ede65503f0027 with negotiated timeout 10000 for client /10.10.34.12:56359,387
+1963,Established session 0x34ede65503f002d with negotiated timeout 20000 for client /10.10.34.11:51041,387
+1964,Connection request from old client /10.10.34.11:51043; will be dropped if server is in r-o mode,171
+1965,Client attempting to establish new session at /10.10.34.11:51097,470
+1966,Accepted socket connection from /10.10.34.13:50224,743
+1967,Closed socket connection for client /10.10.34.11:51097 which had sessionid 0x34ede65503f002f,361
+1968,Closed socket connection for client /10.10.34.12:56372 which had sessionid 0x34ede65503f0030,361
+1969,Client attempting to establish new session at /10.10.34.11:51393,470
+1970,Connection request from old client /10.10.34.12:56424; will be dropped if server is in r-o mode,171
+1971,Client attempting to establish new session at /10.10.34.13:50253,470
+1972,Established session 0x34ede65503f0058 with negotiated timeout 20000 for client /10.10.34.11:51967,387
+1973,caught end of stream exception,801
+1974,minSessionTimeout set to -1,1005
+1975,Server environment:os.name=Linux,960
+1976,Server environment:user.name=zookeeper,960
+1977,Established session 0x34edfaa9c220002 with negotiated timeout 10000 for client /10.10.34.11:53000,387
+1978,Accepted socket connection from /10.10.34.24:37975,743
+1979,Accepted socket connection from /10.10.34.39:51758,743
+1980,Closed socket connection for client /10.10.34.11:53310 which had sessionid 0x34edfaa9c220012,361
+1981,caught end of stream exception,801
+1982,Established session 0x34edfaa9c22001e with negotiated timeout 10000 for client /10.10.34.41:51908,387
+1983,Closed socket connection for client /10.10.34.13:42060 which had sessionid 0x34edfaa9c22002d,361
+1984,Established session 0x34edfaa9c22003a with negotiated timeout 10000 for client /10.10.34.16:42267,387
+1985,Connection request from old client /10.10.34.34:55584; will be dropped if server is in r-o mode,171
+1986,Connection request from old client /10.10.34.37:34701; will be dropped if server is in r-o mode,171
+1987,Received connection request /10.10.34.11:53230,849
+1988,minSessionTimeout set to -1,1005
+1989,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,960
+1990,Getting a snapshot from leader,802
+1991,Closed socket connection for client /10.10.34.11:59186 which had sessionid 0x34ee30a5c530018,361
+1992,Accepted socket connection from /10.10.34.23:51828,743
+1993,Established session 0x34ee30a5c53002b with negotiated timeout 10000 for client /10.10.34.42:37429,387
+1994,"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",58
+1995,Client attempting to establish new session at /10.10.34.13:58180,470
+1996,Closed socket connection for client /10.10.34.12:33342 which had sessionid 0x34f0557885e0002,361
+1997,"Expiring session 0x14f05578bd80006, timeout of 10000ms exceeded",625
+1998,"Expiring session 0x14f05578bd8000f, timeout of 10000ms exceeded",625
+1999,Processed session termination for sessionid: 0x24f0557806a0010,536
