@@ -26,3 +26,37 @@ Time
 Time::Duration
 Time::Timestamp
 ```
+
+The exact tokenizer function we used (Python 3.12.3):
+```python
+import re
+
+def tokenize(s: str) -> list[str]:
+    """
+    Tokenizes a string by splitting on whitespace and common punctuation/delimiter characters.
+
+    Splits on:
+      - Whitespace runs
+      - A period followed by whitespace or end-of-string (sentence-ending dot)
+      - Assignment/separator characters: = : , ; 
+      - Bracket pairs: () [] {}
+      - Angle brackets and quotes: < > " '
+
+    Tokens that are empty or purely whitespace are discarded.
+
+    Args:
+        s: The input string to tokenize.
+
+    Returns:
+        A list of non-empty, non-whitespace token strings.
+    """
+    DELIMITERS = [
+        r"\s+",           # Whitespace runs
+        r"\.(?=[\s$])",   # Sentence-ending dot (before whitespace or end-of-string)
+        r"[=:,;]",        # Assignment and separator punctuation
+        r"[(){}\[\]]",    # Bracket pairs (round, curly, square)
+        r"[<>\"']",       # Angle brackets and quotes
+    ]
+
+    return [token for token in re.split(r"(" + "|".join(DELIMITERS) + r")", s) if token and not token.isspace()]
+```
